@@ -44,8 +44,10 @@ English mainly. Singlish.
 
 - vandalism
 - littering
-- chewing gum (actually you can chew gum like a cow chews cud, but you won't be able to buy any gum in Singapore and when you need to get rid of your gum, make sure you put it in a bin - see "littering" above).
--
+- chewing gum  
+  Actually you can chew gum like a cow chews cud, but you won't be able to buy
+  any gum in Singapore and when you need to get rid of your gum, make sure you
+  put it in a bin - see "littering" above.
 
 ## Getting Around
 
