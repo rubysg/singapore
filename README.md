@@ -17,15 +17,25 @@ For updates on the latest meetup, please check us out on Meetup.com.
 
 ## Tipping
 
+No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
+
+You wouldn't tip at a hawker foodstall, and normal restaurants include a 10%
+service charge.
+
+Oh and talking about coins, Singapore is in a transition from one set of coins
+to another differently sized set. So you'll get two sizes of each coin. Yay!
+
 ## Tissue Culture
 
-No need
+Singaporeans often leave tissues on seats in busy food halls (hawker centres
+etc.) while they walk around and buy food. I know you'll be tempted but best
+not to remove the tissue and sit down.
 
 ## Communication
 
 English mainly. Singlish.
 
-## What to buy back home?
+## What to buy to bring back home
 
 - Bak Kwa
 - Pandan Cake from Bengawan Solo
@@ -34,7 +44,7 @@ English mainly. Singlish.
 
 - vandalism
 - littering
-- chewing gum
+- chewing gum (actually you can chew gum like a cow chews cud, but you won't be able to buy any gum in Singapore and when you need to get rid of your gum, make sure you put it in a bin - see "littering" above).
 -
 
 ## Getting Around
@@ -49,9 +59,12 @@ Taxis could be a challenge during raining days.
 ### MRT and Buses
 
 - Google
-- Singapore Changi Airport has a MRT station at Terminal ?, and it takes about 45 min to get into town.
+- Singapore Changi Airport has a MRT station at Terminal 2 and it takes about
+  45 min to get into town.
 
 MRTs are crowded during peak hours.
+
+But MRTs are frequent, safe and clean (as are the buses). Always a good option.
 
 ## Food
 
@@ -59,7 +72,8 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Kaya Toast with Eggs
 
-- locations?
+- locations?  
+  Yakun
 - pictures?
 
 ### Tsui Kway
@@ -79,7 +93,8 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Chicken Rice
 
-- locations?
+- locations?  
+  For a long queue, please visit Tian Tian at Maxwell food centre.
 - pictures?
 
 ### Laksa
@@ -121,14 +136,16 @@ These are some of the local food that you should try if you are in Singapore.
 
 - Maxwell
 - ABC Market
--
+- Redhill
 
 
 
 ## Sight Seeing
 
 - Bugis Street
-- National Museum
+- National Museum  
+  It's a nice old building but not that exciting unless you're really into
+  museums.
 - Marina Bay Sands
 - Singapore Zoo
 - Night Safari
@@ -151,4 +168,9 @@ These are some of the local food that you should try if you are in Singapore.
 - East Coast?
 - Pulau Ubin
 - Bukit Timah Hill
+- Gardens By the Bay  
+  Enclosed and air conditioned gardens. Quite impressive unless you have to go
+  there more than once.
 - Other Islands? St John's?
+
+
