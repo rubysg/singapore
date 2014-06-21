@@ -34,6 +34,14 @@ tend to avoid using this one.
 
 ## Free WiFi
 
+Changi airport has it.
+
+[Comment: Changi airport is *amazing*. I returned from a trip one day and to
+get from the gate, through customers and into a taxi took FOUR minutes.]
+
+And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
+where the free wifi cafes are.
+
 ## Tipping
 
 No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
