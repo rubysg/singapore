@@ -34,9 +34,9 @@ tend to avoid using this one.
 
 ## Free WiFi
 
-Changi airport has it.
+Changi Airport has it.
 
-[Comment: Changi airport is *amazing*. I returned from a trip one day and to
+[Comment: Changi Airport is *amazing*. I returned from a trip one day and to
 get from the gate, through customers and into a taxi took FOUR minutes.]
 
 And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
@@ -46,11 +46,12 @@ where the free wifi cafes are.
 
 No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
 
-You wouldn't tip at a hawker foodstall, and normal restaurants include a 10%
-service charge.
+You don't need to tip at a hawker foodstall, and normal restaurants include a
+10% service charge.
 
-Oh and talking about coins, Singapore is in a transition from one set of coins
-to another differently sized set. So you'll get two sizes of each coin. Yay!
+[Comment: Oh and talking about coins, Singapore is in a transition from one set
+of coins to another differently sized set. So you'll get two sizes of each
+coin. Yay!]
 
 ## Tissue Culture
 
@@ -58,25 +59,43 @@ Singaporeans often leave tissues on seats in busy food halls (hawker centres
 etc.) while they walk around and buy food. I know you'll be tempted but best
 not to remove the tissue and sit down.
 
+[Comment: If you need your own tissues, hawker centres are the place to buy
+them. You'll often find an older gentleman or lady offering one, two or more
+packets for a dollar or two.]
+
 ## Communication
 
-English mainly. Singlish.
+English mainly.
+[Singlish](http://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html).
+
+[Comment: You'll look like an idiot if you try this slang. I try to get away
+with answering "are you able to?" questions with "can!", but mostly that just
+makes me look like an idiot. YMMV.]
 
 ## What to buy to bring back home
 
 - Bak Kwa
-- Pandan Cake from Bengawan Solo
+- Pandan Cake or Kueh Lapis from Bengawan Solo  
+  Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
+- Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 
 ## Don'ts
 
 - vandalism
 - littering
 - chewing gum  
-  Actually you can chew gum like a cow chews cud, but you won't be able to buy
-  any gum in Singapore and when you need to get rid of your gum, make sure you
-  put it in a bin - see "littering" above.
+  [Comment: Actually you can chew gum like a cow chews cud, but you won't be
+  able to buy any gum in Singapore and when you need to get rid of your gum,
+  make sure you put it in a bin - see "littering" above.]
 
 ## Getting Around
+
+Public transport in Singapore is excellent (see below) and probably should be
+your first choice.
+
+If you're in the central area you can certainly get to many places by walking
+(but of course it's always hot and humid - and sometimes raining heavily - so
+please take this into account).
 
 ### Taxi
 
@@ -87,13 +106,18 @@ Taxis could be a challenge during raining days.
 
 ### MRT and Buses
 
-- Google
-- Singapore Changi Airport has a MRT station at Terminal 2 and it takes about
-  45 min to get into town.
+There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
+are frequent, clean and fast (and *full* of people during rush hour). (They run
+underground in the central part of Singapore.)
 
-MRTs are crowded during peak hours.
+There are the [buses](http://www.sbstransit.com.sg/) which go everywhere, and
+are also very clean and comfortable.
 
-But MRTs are frequent, safe and clean (as are the buses). Always a good option.
+Changi Airport has a MRT station at Terminal 2 and it takes about 45 min to get
+into town. You take the train past expo which ends at Tanah Merah, then you
+wait for a green line train *from* Pasir Ris *towards* Joo Koon. This then
+takes you into the central area (probably City Hall or Raffles Place - don't go
+all the way to Joo Koon!).
 
 ## Food
 
@@ -123,7 +147,8 @@ These are some of the local food that you should try if you are in Singapore.
 ### Chicken Rice
 
 - locations?  
-  For a long queue, please visit Tian Tian at Maxwell food centre.
+  [Comment: For a long queue, please visit Tian Tian at Maxwell food centre,
+  especially at lunch.]
 - pictures?
 
 ### Laksa
@@ -160,14 +185,13 @@ These are some of the local food that you should try if you are in Singapore.
 
 - Marina Bay Sands?
 - Level 33?
+- Club Street
 
 ## Major Hawker Centres?
 
 - Maxwell
 - ABC Market
 - Redhill
-
-
 
 ## Sight Seeing
 
