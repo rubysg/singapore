@@ -46,7 +46,7 @@ where the free wifi cafes are.
 
 No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
 
-You don't need to tip at a hawker foodstall, and normal restaurants include a
+You don't need to tip at a hawker food stall, and normal restaurants include a
 10% service charge.
 
 [Comment: Oh and talking about coins, Singapore is in a transition from one set
@@ -125,9 +125,7 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Kaya Toast with Eggs
 
-- locations?  
-  Yakun
-- pictures?
+Yakun - these stores are everywhere.
 
 ### Tsui Kway
 
@@ -141,15 +139,16 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Carrot Cake
 
-- locations?
-- pictures?
+Go into any hawker centre and you'll find carrot cake. There are two varieties,
+black and white.
 
 ### Chicken Rice
 
-- locations?  
-  [Comment: For a long queue, please visit Tian Tian at Maxwell food centre,
-  especially at lunch.]
-- pictures?
+This is a very famous Singaporean dish.
+
+Tian Tian in the Maxwell Food Centre is very famous (and I hear half decent).
+If you like to stand in a long queue, please go there at lunch. If you don't go
+there at lunch, they're unlikely to be open.
 
 ### Laksa
 
@@ -163,8 +162,7 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Rojak
 
-- locations?
-- pictures?
+Rojak is a great local dish for vegetarians. Another staple of any food centre.
 
 ### Kway Chap
 
@@ -178,8 +176,11 @@ These are some of the local food that you should try if you are in Singapore.
 
 ### Singapore Sling
 
-- locations?
-- pictures?
+This is an alcoholic drink. I've never tried it but I'm sure it has a lot of
+booze in it.
+
+The quintessential place to drink it is at Raffles Hotel (in the public area),
+but very expensive.
 
 ### Drinking Locations?
 
@@ -189,7 +190,7 @@ These are some of the local food that you should try if you are in Singapore.
 
 ## Major Hawker Centres?
 
-- Maxwell
+[Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
 - ABC Market
 - Redhill
 
