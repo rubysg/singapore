@@ -68,25 +68,31 @@ packets for a dollar or two.]
 English mainly.
 [Singlish](http://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html).
 
-[Comment: You'll look like an idiot if you try this slang. I try to get away
-with answering "are you able to?" questions with "can!", but mostly that just
-makes me look like an idiot. YMMV.]
+[Comment: You'll look like an idiot if you try this slang. I sometimes answer
+"are you able to?" questions with "can!", but mostly that just makes me look
+like an idiot. YMMV.]
 
 ## What to buy to bring back home
 
-- Bak Kwa
+- Bak Kwa  
+  For those who like their pork. Just walk into any
+  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html)  
 - Pandan Cake or Kueh Lapis from Bengawan Solo  
   Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 
 ## Don'ts
 
-- vandalism
-- littering
-- chewing gum  
+- Vandalism
+- Littering
+- Chewing gum  
   [Comment: Actually you can chew gum like a cow chews cud, but you won't be
   able to buy any gum in Singapore and when you need to get rid of your gum,
   make sure you put it in a bin - see "littering" above.]
+
+[Comment: You *really* don't want to commit even minor crimes here. Singapore
+takes its law and order very seriously - one of the reasons it's a very nice
+place to live.]
 
 ## Getting Around
 
@@ -123,24 +129,30 @@ all the way to Joo Koon!).
 
 These are some of the local food that you should try if you are in Singapore.
 
+[Comment: I've added photos for a few of the foods listed here, mostly the ones
+I've tried in Singapore. If you're interested in some of the others, just grab
+a staff member at RDRC for suggestions about where to find them.]
+
 ### Kaya Toast with Eggs
 
-Yakun - these stores are everywhere.
-
-### Tsui Kway
-
-- locations?
-- pictures?
+[Yakun](http://www.yakun.com.sg/) - these stores are everywhere.
 
 ### Nasi Lemak
 
-- locations?
-- pictures?
+This is a traditional Malays dish of chicken, rice and other nice things.
+
+[Comment: Sorry, but I haven't found a really good Nasi Lemak in Singapore.]
 
 ### Carrot Cake
 
 Go into any hawker centre and you'll find carrot cake. There are two varieties,
 black and white.
+
+### Popiah
+
+A spicy roll and a great option for vegetarians.
+
+[[/images/popiah.jpg]]
 
 ### Chicken Rice
 
@@ -150,29 +162,77 @@ Tian Tian in the Maxwell Food Centre is very famous (and I hear half decent).
 If you like to stand in a long queue, please go there at lunch. If you don't go
 there at lunch, they're unlikely to be open.
 
+### Ice Kacang
+
+A local dessert.
+
+[[/images/ais_bor.jpg]]
+
+[Comment: Unfortunately Singapore just doesn't make good variations of this
+dessert. You need to visit Malaysia for the real thing.]
+
+### Tsui Kway
+
+This is an odd one, again from hawker centres.
+
+[Comment: I *think* it's vegetarian.]
+
 ### Laksa
 
-- locations?
-- pictures?
+Spicy noodle soup.
 
 ### Bak Kut Teh
 
-- locations?
-- pictures?
+Pork in a herb soup..
 
 ### Rojak
 
 Rojak is a great local dish for vegetarians. Another staple of any food centre.
 
+### Dim Sum
+
+Not a traditional Singaporean dish but always a good option.
+
+The most popular Hong Kong style dim sum (aka. yum cha) restaurant at the
+moment is [Tim Ho Wan](http://www.timhowan.com/locate-us/).
+
+[[/images/tim_ho_wan_pork_buns.jpg]]
+
 ### Kway Chap
 
-- locations?
-- pictures?
+[Um...google says...](https://www.google.com.sg/search?q=kway+chap+singapore&es_sm=91&source=lnms&tbm=isch&sa=X&ei=rRiqU7e_CsmHuAS3yYGQBA&ved=0CAgQ_AUoAQ&biw=1916&bih=986)
+
+[Comment: I honestly don't know what this one is.]
 
 ### Chilli Crab
 
-- locations?
-- pictures?
+Singapore is very famous for its chilli crab.
+
+If you can get there
+[Mellben](https://www.facebook.com/MellbenSeafoodToaPayoh) is quite good. Try
+their Crab Bee Hoon.]
+
+[Comment: Don't try this at touristy restaurants - it's just not worth it.]
+
+### Wanton Min
+
+Again, not a truly local dish, but a very nice Chinese dish of noodles and
+pork.
+
+Worth visiting [Foong Kee Coffee Shop](http://www.hungrygowhere.com/singapore/foong_kee/)
+if you're in Chinatown.
+
+[[/images/wanton_min.jpg]]
+
+## Drinking Locations
+
+- Club Street
+- Clarke Quay  
+  [Comment: If you like local beers, [The Pump Room](http://www.pumproomasia.com/)
+  at Clarke Quay is worth visiting to try their ales.]
+
+Of course there will be many other places that people drink in Singapore, just
+ask someone at RDRC for recommendations.
 
 ### Singapore Sling
 
@@ -182,13 +242,7 @@ booze in it.
 The quintessential place to drink it is at Raffles Hotel (in the public area),
 but very expensive.
 
-### Drinking Locations?
-
-- Marina Bay Sands?
-- Level 33?
-- Club Street
-
-## Major Hawker Centres?
+## Major Hawker Centres
 
 [Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
 - ABC Market
@@ -198,8 +252,8 @@ but very expensive.
 
 - Bugis Street
 - National Museum  
-  It's a nice old building but not that exciting unless you're really into
-  museums.
+  [Comment: It's a nice old building but not that exciting unless you're really into
+  museums.]
 - Marina Bay Sands
 - Singapore Zoo
 - Night Safari
@@ -218,13 +272,10 @@ but very expensive.
 - Henderson Park
 - China Town
 - Haji Lane
-- Major Religious Landmarks? (Sima Lu, Sri Marianam, in Haji Lane, Church?)
-- East Coast?
 - Pulau Ubin
 - Bukit Timah Hill
 - Gardens By the Bay  
-  Enclosed and air conditioned gardens. Quite impressive unless you have to go
-  there more than once.
-- Other Islands? St John's?
+  [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
+  there more than once.]
 
 
