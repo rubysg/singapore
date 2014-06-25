@@ -152,7 +152,7 @@ black and white.
 
 A spicy roll and a great option for vegetarians.
 
-[[/images/popiah.jpg]]
+![Popiah](/images/popiah.jpg)
 
 ### Chicken Rice
 
@@ -166,7 +166,7 @@ there at lunch, they're unlikely to be open.
 
 A local dessert.
 
-[[/images/ais_bor.jpg]]
+![Ais Bor](/images/ais_bor.jpg)
 
 [Comment: Unfortunately Singapore just doesn't make good variations of this
 dessert. You need to visit Malaysia for the real thing.]
@@ -194,9 +194,10 @@ Rojak is a great local dish for vegetarians. Another staple of any food centre.
 Not a traditional Singaporean dish but always a good option.
 
 The most popular Hong Kong style dim sum (aka. yum cha) restaurant at the
-moment is [Tim Ho Wan](http://www.timhowan.com/locate-us/).
+moment is [Tim Ho Wan](http://www.timhowan.com/locate-us/) - their pork buns
+are a "must try".
 
-[[/images/tim_ho_wan_pork_buns.jpg]]
+![Pork Buns](/images/tim_ho_wan_pork_buns.jpg)
 
 ### Kway Chap
 
@@ -222,7 +223,7 @@ pork.
 Worth visiting [Foong Kee Coffee Shop](http://www.hungrygowhere.com/singapore/foong_kee/)
 if you're in Chinatown.
 
-[[/images/wanton_min.jpg]]
+![Wanton Min](/images/wanton_min.jpg)
 
 ## Drinking Locations
 
