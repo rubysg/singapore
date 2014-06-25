@@ -39,6 +39,9 @@ Changi Airport has it.
 [Comment: Changi Airport is *amazing*. I returned from a trip one day and to
 get from the gate, through customers and into a taxi took FOUR minutes.]
 
+Wireless@SG is an open network available at almost every shopping mall, library and McDonalds. 
+Requires a log in. [Sign up here, under "Non-Singtel Customers"](http://info.singtel.com/personal/internet/broadband-on-the-go/wireless-sg). There is also a second network SSID called Wireless@SGx, which uses WPA-Enterprise + TKIP for authentication.
+
 And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
 where the free wifi cafes are.
 
@@ -112,6 +115,8 @@ Taxis could be a challenge during raining days.
 
 ### MRT and Buses
 
+The public transport system runs on a reloadable contactless card called EZ-Link.
+
 There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
 are frequent, clean and fast (and *full* of people during rush hour). (They run
 underground in the central part of Singapore.)
@@ -135,7 +140,9 @@ a staff member at RDRC for suggestions about where to find them.]
 
 ### Kaya Toast with Eggs
 
-[Yakun](http://www.yakun.com.sg/) - these stores are everywhere.
+[Yakun](http://www.yakun.com.sg/) - these stores are everywhere. 
+
+You can get this at the drink stall in almost every hawker center. Ask for "breakfast set".
 
 ### Nasi Lemak
 
@@ -171,9 +178,9 @@ A local dessert.
 [Comment: Unfortunately Singapore just doesn't make good variations of this
 dessert. You need to visit Malaysia for the real thing.]
 
-### Tsui Kway
+### Tsui Kway / Chwee Kueh
 
-This is an odd one, again from hawker centres.
+This is an odd one, again from hawker centres. Rice cakes sprinkled with salted radish.
 
 [Comment: I *think* it's vegetarian.]
 
@@ -215,7 +222,7 @@ their Crab Bee Hoon.]
 
 [Comment: Don't try this at touristy restaurants - it's just not worth it.]
 
-### Wanton Min
+### Wanton Noodles
 
 Again, not a truly local dish, but a very nice Chinese dish of noodles and
 pork.
