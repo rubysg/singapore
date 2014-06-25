@@ -7,7 +7,7 @@ put together by members of the Singapore Ruby community.
 
 RubySG meetups are held once a month, on a Tuesday.
 
-For updates on the latest meetup, please check us out on Meetup.com.
+For updates on the latest meetup, please check us out on [Meetup.com](http://www.meetup.com/Singapore-Ruby-Group/).
 
 ## Data SIM Card
 
