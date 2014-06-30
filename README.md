@@ -286,4 +286,6 @@ but very expensive.
   [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
   there more than once.]
 
+## License
 
+Released under the [MIT License](http://www.opensource.org/licenses/MIT).
