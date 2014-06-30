@@ -208,9 +208,9 @@ are a "must try".
 
 ### Kway Chap
 
-[Um...google says...](https://www.google.com.sg/search?q=kway+chap+singapore&es_sm=91&source=lnms&tbm=isch&sa=X&ei=rRiqU7e_CsmHuAS3yYGQBA&ved=0CAgQ_AUoAQ&biw=1916&bih=986)
+Kway Chap is a Teochew dish of flat, broad rice sheets in a soup made with dark soy sauce, served with pig offal, braised duck meat, various kinds of beancurd, preserved salted vegetables, and braised hard-boiled eggs. Fit for the slightly adventurous!
 
-[Comment: I honestly don't know what this one is.]
+[Pictures of Kway Chap via Google](https://www.google.com.sg/search?q=kway+chap+singapore&es_sm=91&source=lnms&tbm=isch&sa=X&ei=rRiqU7e_CsmHuAS3yYGQBA&ved=0CAgQ_AUoAQ&biw=1916&bih=986)
 
 ### Chilli Crab
 
