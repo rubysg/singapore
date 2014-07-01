@@ -3,6 +3,41 @@ Hi, welcome to Singapore!
 This is a handbook for #rubyfriends from overseas
 put together by members of the Singapore Ruby community.
 
+## Table of Contents
+
+- [Meetups](#meetups)
+- [Data SIM Card](#data-sim-card)
+- [Power (Socket)](#power-socket)
+- [Free WiFi](#free-wifi)
+- [Tipping](#tipping)
+- [Tissue Culture](#tissue-culture)
+- [Communication](#communication)
+- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
+- [Don'ts](#donts)
+- [Getting Around](#getting-around)
+  - [Taxi](#taxi)
+  - [MRT and Buses](#mrt-and-buses)
+- [Food](#food)
+  - [Kaya Toast with Eggs](#kaya-toast-with-eggs)
+  - [Nasi Lemak](#nasi-lemak)
+  - [Carrot Cake](#carrot-cake)
+  - [Popiah](#popiah)
+  - [Chicken Rice](#chicken-rice)
+  - [Ice Kacang](#ice-kacang)
+  - [Tsui Kway / Chwee Kueh](#tsui-kway--chwee-kueh)
+  - [Laksa](#laksa)
+  - [Bak Kut Teh](#bak-kut-teh)
+  - [Rojak](#rojak)
+  - [Dim Sum](#dim-sum)
+  - [Kway Chap](#kway-chap)
+  - [Chilli Crab](#chilli-crab)
+  - [Wanton Noodles](#wanton-noodles)
+- [Drinking Locations](#drinking-locations)
+  - [Singapore Sling](#singapore-sling)
+- [Major Hawker Centres](#major-hawker-centres)
+- [Sight Seeing](#sight-seeing)
+- [License](#license)
+
 ## Meetups
 
 RubySG meetups are held once a month, on a Tuesday.
@@ -39,7 +74,7 @@ Changi Airport has it.
 [Comment: Changi Airport is *amazing*. I returned from a trip one day and to
 get from the gate, through customers and into a taxi took FOUR minutes.]
 
-Wireless@SG is an open network available at almost every shopping mall, library and McDonalds. 
+Wireless@SG is an open network available at almost every shopping mall, library and McDonalds.
 Requires a log in. [Sign up here, under "Non-Singtel Customers"](http://info.singtel.com/personal/internet/broadband-on-the-go/wireless-sg). There is also a second network SSID called Wireless@SGx, which uses WPA-Enterprise + TKIP for authentication.
 
 And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
@@ -77,10 +112,10 @@ like an idiot. YMMV.]
 
 ## What to buy to bring back home
 
-- Bak Kwa  
+- Bak Kwa
   For those who like their pork. Just walk into any
-  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html)  
-- Pandan Cake or Kueh Lapis from Bengawan Solo  
+  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html)
+- Pandan Cake or Kueh Lapis from Bengawan Solo
   Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 
@@ -88,7 +123,7 @@ like an idiot. YMMV.]
 
 - Vandalism
 - Littering
-- Chewing gum  
+- Chewing gum
   [Comment: Actually you can chew gum like a cow chews cud, but you won't be
   able to buy any gum in Singapore and when you need to get rid of your gum,
   make sure you put it in a bin - see "littering" above.]
@@ -140,7 +175,7 @@ a staff member at RDRC for suggestions about where to find them.]
 
 ### Kaya Toast with Eggs
 
-[Yakun](http://www.yakun.com.sg/) - these stores are everywhere. 
+[Yakun](http://www.yakun.com.sg/) - these stores are everywhere.
 
 You can get this at the drink stall in almost every hawker center. Ask for "breakfast set".
 
@@ -235,7 +270,7 @@ if you're in Chinatown.
 ## Drinking Locations
 
 - Club Street
-- Clarke Quay  
+- Clarke Quay
   [Comment: If you like local beers, [The Pump Room](http://www.pumproomasia.com/)
   at Clarke Quay is worth visiting to try their ales.]
 
@@ -259,7 +294,7 @@ but very expensive.
 ## Sight Seeing
 
 - Bugis Street
-- National Museum  
+- National Museum
   [Comment: It's a nice old building but not that exciting unless you're really into
   museums.]
 - Marina Bay Sands
@@ -282,7 +317,7 @@ but very expensive.
 - Haji Lane
 - Pulau Ubin
 - Bukit Timah Hill
-- Gardens By the Bay  
+- Gardens By the Bay
   [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
   there more than once.]
 
