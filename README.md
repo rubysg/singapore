@@ -18,6 +18,7 @@ put together by members of the Singapore Ruby community.
   - [Taxi](#taxi)
   - [MRT and Buses](#mrt-and-buses)
 - [Food](#food)
+  - [ieat Ultimate Food Trail](#ieat-ultimate-food-trail)
   - [Kaya Toast with Eggs](#kaya-toast-with-eggs)
   - [Nasi Lemak](#nasi-lemak)
   - [Carrot Cake](#carrot-cake)
