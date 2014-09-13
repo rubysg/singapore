@@ -169,9 +169,14 @@ all the way to Joo Koon!).
 
 These are some of the local food that you should try if you are in Singapore.
 
-[Comment: I've added photos for a few of the foods listed here, mostly the ones
-I've tried in Singapore. If you're interested in some of the others, just grab
-a staff member at RDRC for suggestions about where to find them.]
+[Comment: I've added photos for a few of the foods listed here, mostly the ones I've tried in Singapore.
+If you're interested in some of the others, just grab a staff member at RDRC for suggestions about where to find them.]
+
+### ieat Ultimate Food Trail
+
+You can't go wrong following the recommendations of [famous food blogger Dr Leslie Tay](http://ieatishootipost.sg/).
+
+Check out his [Singapore's Ultimate Food Trail post](http://bit.ly/ieatUltimateFoodTrail) and the [map](http://bit.ly/ieatUltimateFoodTrailmap).
 
 ### Kaya Toast with Eggs
 
