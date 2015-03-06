@@ -33,6 +33,7 @@ put together by members of the Singapore Ruby community.
   - [Kway Chap](#kway-chap)
   - [Chilli Crab](#chilli-crab)
   - [Wanton Noodles](#wanton-noodles)
+- [Coffee Culture](#coffee-culture)
 - [Drinking Locations](#drinking-locations)
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
@@ -115,10 +116,11 @@ like an idiot. YMMV.]
 
 - Bak Kwa
   For those who like their pork. Just walk into any
-  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html)
+  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) or [Lim Chee Guan](http://www.limcheeguan.com.sg/)
 - Pandan Cake or Kueh Lapis from Bengawan Solo
   Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
+- Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
 
 ## Don'ts
 
@@ -128,6 +130,8 @@ like an idiot. YMMV.]
   [Comment: Actually you can chew gum like a cow chews cud, but you won't be
   able to buy any gum in Singapore and when you need to get rid of your gum,
   make sure you put it in a bin - see "littering" above.]
+- Don't carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
+  [Comment: Eating Durian is another must-try experiences in Singapore. However, carrying them in public transport is a fineable offense. In case if you really want to carry, mention it to the sellers and they will make sure it's thoroughly wrapped not to escape the smell)
 
 [Comment: You *really* don't want to commit even minor crimes here. Singapore
 takes its law and order very seriously - one of the reasons it's a very nice
@@ -144,8 +148,12 @@ please take this into account).
 
 ### Taxi
 
+Install one of the following apps:
 - GrabTaxi
 - Uber
+- EasyTaxi
+
+You can also walk to a Taxi stand or flag down a taxi from the street.
 
 Taxis could be a challenge during raining days.
 
@@ -272,6 +280,12 @@ Worth visiting [Foong Kee Coffee Shop](http://www.hungrygowhere.com/singapore/fo
 if you're in Chinatown.
 
 ![Wanton Min](/images/wanton_min.jpg)
+
+## Coffee Culture
+
+While there are many western-style cafes and popular chains like Starbucks throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centers. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse). 
+
+You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They also have a regular meetup, which you can join for kopi adventures and meet interesting people. 
 
 ## Drinking Locations
 
