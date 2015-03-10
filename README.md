@@ -74,7 +74,7 @@ tend to avoid using this one.
 Changi Airport has it.
 
 [Comment: Changi Airport is *amazing*. I returned from a trip one day and to
-get from the gate, through customers and into a taxi took FOUR minutes.]
+get from the gate, through customs and into a taxi took FOUR minutes.]
 
 Wireless@SG is an open network available at almost every shopping mall, library and McDonalds.
 Requires a log in. [Sign up here, under "Non-Singtel Customers"](http://info.singtel.com/personal/internet/broadband-on-the-go/wireless-sg). There is also a second network SSID called Wireless@SGx, which uses WPA-Enterprise + TKIP for authentication.
