@@ -66,7 +66,7 @@ to get for those who need nano sims.
 This [bad boy](http://www.iec.ch/worldplugs/typeG.htm) (Type G, BS 1363 UK, 230-240V).
 
 Sometimes you can force the two prong [European Type C](http://www.iec.ch/worldplugs/typeC.htm)
-into the socket, but it involves shoving a metal fork into the third hole, so I
+into the socket, but it involves shoving a something small and non-metallic into the third hole, so I
 tend to avoid using this one.
 
 ## Free WiFi
