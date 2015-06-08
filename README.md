@@ -38,6 +38,7 @@ put together by members of the Singapore Ruby community.
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
 - [Sight Seeing](#sight-seeing)
+- [Co-working Spaces](#co-working-spaces)
 - [License](#license)
 
 ## Meetups
@@ -344,6 +345,10 @@ but very expensive.
 - Gardens By the Bay
   [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
   there more than once.]
+
+## Co-working Spaces
+
+If you plan to bring your work while visiting Singapore, WeBuild SG provides a [partial list of co-working spaces](https://github.com/webuildsg/lists#co-working-spaces).
 
 ## License
 
