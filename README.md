@@ -159,7 +159,7 @@ Taxis could be a challenge during raining days.
 
 ### MRT and Buses
 
-The public transport system runs on a reloadable contactless card called EZ-Link.
+The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passes. There is no need to buy these unless you plan on making 4+ trips per day.
 
 There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
 are frequent, clean and fast (and *full* of people during rush hour). (They run
