@@ -48,6 +48,10 @@ For updates on the latest meetup, please check us out on [Meetup.com](http://www
 
 ## Data SIM Card
 
+At changi airport (currency exchange counter) you could buy a $15 (5 days) / $30 (10 days) Singtel Prepaid SIM Card with 100G data.
+
+[![screenshot 2015-06-02 17 05 02](https://cloud.githubusercontent.com/assets/1000669/7932264/8d5d801a-0949-11e5-921e-54f9526a9153.png)](http://info.singtel.com/personal/phones-plans/mobile/prepaid/hitouristsimcards)
+
 You can go into most convenience stores (eg. 7-11) and buy a pre-paid simcard
 from either SingTel or StarHub (or possibly M1).
 
