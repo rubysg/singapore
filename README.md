@@ -34,6 +34,7 @@ put together by members of the Singapore Ruby community.
   - [Chilli Crab](#chilli-crab)
   - [Wanton Noodles](#wanton-noodles)
 - [Coffee Culture](#coffee-culture)
+- [Cat Cafes](#cat-cafes)
 - [Drinking Locations](#drinking-locations)
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
@@ -292,6 +293,14 @@ if you're in Chinatown.
 While there are many western-style cafes and popular chains like Starbucks throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centers. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse).
 
 You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They also have a regular meetup, which you can join for kopi adventures and meet interesting people.
+
+## Cat Cafes
+
+> Time spent with cats is never wasted.
+
+* [Meomi Cat Cafe](https://www.facebook.com/meomicatcafe)
+* [Cat Cafe Neko no Niwa](http://www.catcafe.com.sg)
+* [The Cat Cafe Singapore](http://thecatcafe.sg)
 
 ## Drinking Locations
 
