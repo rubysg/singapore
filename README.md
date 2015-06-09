@@ -38,6 +38,7 @@ put together by members of the Singapore Ruby community.
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
 - [Sight Seeing](#sight-seeing)
+- [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
 - [License](#license)
 
@@ -345,6 +346,23 @@ but very expensive.
 - Gardens By the Bay
   [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
   there more than once.]
+
+## Currency
+
+It's advisable to bring [Singapore dollars
+(SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
+you can easily get cash out when you arive if nessary. While credit cards are
+widely accepted here, there are plenty of places which will only take cash.
+Certainly for public transport, cash is more heavily used. The best local food
+can be found in the older [hawker centres](#major-hawker-centres) and can't be
+bought with a credit card.
+
+Some retailers have a naughty habit of slapping on surcharges for credit
+card purchases, so, if you're shopping for say electronic goods, you might find
+that you get a small "discount" for paying by cash.
+
+VISA and MasterCard are commonly accepted. Many retailers still don't accept
+AMEX. Some retailers accept Discover, but best to assume most don't.
 
 ## Co-working Spaces
 
