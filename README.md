@@ -175,6 +175,17 @@ underground in the central part of Singapore.)
 There are the [buses](http://www.sbstransit.com.sg/) which go everywhere, and
 are also very clean and comfortable.
 
+There are two apps that you might find helpful for getting around on the public
+transport system:
+
+- SBS Transit iris ([iOS](https://itunes.apple.com/sg/app/sbs-transit-iris/id429899929), [Android](https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid))
+
+  Tells you when the next bus will (hopefully) arrive.
+
+- gothere.sg ([iOS](https://itunes.apple.com/sg/app/gothere.sg/id348131804), [Android](https://play.google.com/store/apps/details?id=com.hema.gothere.sg))
+
+  Tells you which bus or MRT to take to get from A to B.
+
 Changi Airport has a MRT station at Terminal 2 and it takes about 45 min to get
 into town. You take the train past expo which ends at Tanah Merah, then you
 wait for a green line train *from* Pasir Ris *towards* Joo Koon. This then
