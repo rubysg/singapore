@@ -337,6 +337,28 @@ but very expensive.
 - ABC Market
 - Redhill
 
+## Shopping
+
+One of the two major passions (the other being eating) of Singaporeans.
+
+###Electronics
+
+- Sim Lim Square
+
+  Good for electronics, lower floors specialise in audio, video and cameras. Shop around for the best prices and check warranties before plonking down your hard-earned cash. Some bargaining may be possible.
+	
+  Nearest MRT station: Bugis (East West and Downtown Lines)
+
+- Sim Lim Tower
+  
+  Electronic components and spare parts. Nerd paradise.
+
+- Funan Square
+
+  Slightly more up-market version of Sim Lim Square. Prices probably higher than Sim Lim, but comes with an altogether more pleasant shopping experience. Challenger mega-store on top floor.
+  
+  Nearest MRT stations: City Hall (East West and North South Lines), Clarke Quay (North East Line)
+
 ## Sight Seeing
 
 - Bugis Street
