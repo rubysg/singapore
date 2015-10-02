@@ -38,6 +38,8 @@ put together by members of the Singapore Ruby community.
 - [Drinking Locations](#drinking-locations)
   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
+- [Shopping](#shopping)
+  - [Electronics](#electronics)
 - [Sight Seeing](#sight-seeing)
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
@@ -341,23 +343,28 @@ but very expensive.
 
 One of the two major passions (the other being eating) of Singaporeans.
 
-###Electronics
+### Electronics
 
 - Sim Lim Square
 
-  Good for electronics, lower floors specialise in audio, video and cameras. Shop around for the best prices and check warranties before plonking down your hard-earned cash. Some bargaining may be possible.
-	
-  Nearest MRT station: Bugis (East West and Downtown Lines)
+  Good for electronics, lower floors specialise in audio, video and cameras.
+  Shop around for the best prices and check warranties before plonking down
+  your hard-earned cash. Some bargaining may be possible.
+
+  Nearest MRT station: Bugis (East West and Downtown Lines).
 
 - Sim Lim Tower
-  
+
   Electronic components and spare parts. Nerd paradise.
 
 - Funan Square
 
-  Slightly more up-market version of Sim Lim Square. Prices probably higher than Sim Lim, but comes with an altogether more pleasant shopping experience. Challenger mega-store on top floor.
-  
-  Nearest MRT stations: City Hall (East West and North South Lines), Clarke Quay (North East Line)
+  Slightly more up-market version of Sim Lim Square. Prices probably higher than
+  Sim Lim, but comes with an altogether more pleasant shopping experience.
+  Challenger mega-store on top floor.
+
+  Nearest MRT stations: City Hall (East West and North South Lines), Clarke Quay
+  (North East Line).
 
 ## Sight Seeing
 
