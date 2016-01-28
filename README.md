@@ -171,10 +171,10 @@ The public transport system runs on a reloadable contactless card called EZ-Link
 
 There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
 are frequent, clean and fast (and *full* of people during rush hour). (They run
-underground in the central part of Singapore.)
+underground in the central part of Singapore.) Can checkout [MRT Rail Routes Explorer](https://railrouter.sg).
 
 There are the [buses](http://www.sbstransit.com.sg/) which go everywhere, and
-are also very clean and comfortable.
+are also very clean and comfortable. Can checkout [Singapore Bus Routes Explorer](https://busrouter.sg).
 
 There are two apps that you might find helpful for getting around on the public
 transport system:
