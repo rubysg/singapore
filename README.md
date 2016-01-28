@@ -399,7 +399,7 @@ One of the two major passions (the other being eating) of Singaporeans.
 
 It's advisable to bring [Singapore dollars
 (SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
-you can easily get cash out at ATMs after you arrive if neesssary. While
+you can easily get cash out at ATMs after you arrive if necessary. While
 credit cards are widely accepted here, there are plenty of places which
 will only take cash. Certainly for public transport, cash is more heavily
 used. The best local food can be found in the older [hawker centres](#major-hawker-centres)
