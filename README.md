@@ -158,9 +158,8 @@ please take this into account).
 ### Taxi
 
 Install one of the following apps:
-- GrabSG (previously GrabTaxi)
+- Grab (previously GrabTaxi)
 - Uber
-- EasyTaxi
 
 You can also walk to a Taxi stand or flag down a taxi from the street.
 
