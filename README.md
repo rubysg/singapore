@@ -158,7 +158,7 @@ please take this into account).
 ### Taxi
 
 Install one of the following apps:
-- GrabTaxi
+- GrabSG (previously GrabTaxi)
 - Uber
 - EasyTaxi
 
