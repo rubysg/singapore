@@ -130,6 +130,7 @@ like an idiot. YMMV.]
   Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 - Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
+- Bak Kuh Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html) 
 
 ## Don'ts
 
@@ -141,6 +142,7 @@ like an idiot. YMMV.]
   make sure you put it in a bin - see "littering" above.]
 - Don't carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
   [Comment: Eating Durian is another must-try experience in Singapore. However, carrying them in public transport is a fineable offense. If you really want to carry it onto public transport, mention it to the sellers and they will make sure it's wrapped thoroughly so that the smell does not escape).
+- Drink and eat in public transport. You can be fined for it. This is especially true for MRT stations and trains, and less so for buses.
 
 [Comment: You *really* don't want to commit even minor crimes here. Singapore
 takes its law and order very seriously - one of the reasons it's a very nice
@@ -348,7 +350,8 @@ One of the two major passions (the other being eating) of Singaporeans.
 
   Good for electronics, lower floors specialise in audio, video and cameras.
   Shop around for the best prices and check warranties before plonking down
-  your hard-earned cash. Some bargaining may be possible.
+  your hard-earned cash. Some bargaining may be possible. Not all shops are\
+  trustworthy.
 
   Nearest MRT station: Bugis (East West and Downtown Lines).
 
@@ -377,6 +380,7 @@ One of the two major passions (the other being eating) of Singaporeans.
 - River Safari
 - Bird Park
 - Sentosa
+- S.E.A. Aquarium
 - Universal Studios
 - Merlion
 - Orchard Road
