@@ -350,8 +350,8 @@ One of the two major passions (the other being eating) of Singaporeans.
 
   Good for electronics, lower floors specialise in audio, video and cameras.
   Shop around for the best prices and check warranties before plonking down
-  your hard-earned cash. Some bargaining may be possible. Not all shops are\
-  trustworthy.
+  your hard-earned cash. Some bargaining may be possible. Caveat: not all shops
+  are trustworthy.
 
   Nearest MRT station: Bugis (East West and Downtown Lines).
 
