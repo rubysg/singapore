@@ -9,6 +9,7 @@ put together by members of the Singapore Ruby community.
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Free WiFi](#free-wifi)
+- [Goods and Services Tax (GST)](#gst)
 - [Tipping](#tipping)
 - [Tissue Culture](#tissue-culture)
 - [Communication](#communication)
@@ -53,7 +54,7 @@ For updates on the latest meetup, please check us out on [Meetup.com](http://www
 
 ## Data SIM Card
 
-At changi airport (currency exchange counter) you could buy a $15 (5 days) / $30 (10 days) Singtel Prepaid SIM Card with 100G data.
+At Changi Airport (currency exchange counter) you could buy a $15 (5 days) / $30 (10 days) Singtel Prepaid SIM Card with 100G data.
 
 [![screenshot 2015-06-02 17 05 02](https://cloud.githubusercontent.com/assets/1000669/7932264/8d5d801a-0949-11e5-921e-54f9526a9153.png)](http://info.singtel.com/personal/phones-plans/mobile/prepaid/hitouristsimcards)
 
@@ -91,6 +92,12 @@ Requires a log in. [Sign up here, under "Non-Singtel Customers"](http://info.sin
 And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
 where the free wifi cafes are.
 
+## Goods and Services Tax (GST)
+
+Do take note that Singapore imposes a 7% levy on nearly all forms of goods and services rendered/sold on the island. This price is mostly (if not, always) included in the listed price. However, some establishments may still leave out the tax on listed pricings.
+
+Hence, do still keep a lookout for text at the bottom of menus and product listings that indicate the non-addition of tax and service charge and calculate accordingly.
+
 ## Tipping
 
 No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
@@ -125,9 +132,9 @@ like an idiot. YMMV.]
 
 - Bak Kwa
   For those who like their pork. Just walk into any
-  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) or [Lim Chee Guan](http://www.limcheeguan.com.sg/)
+  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) ([outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bee-cheng-hiang.html)) or [Lim Chee Guan](http://www.limcheeguan.com.sg/)
 - Pandan Cake or Kueh Lapis from Bengawan Solo
-  Conveniently they have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
+  Conveniently they too, have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 - Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
 - Bak Kuh Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html) 
@@ -141,7 +148,7 @@ like an idiot. YMMV.]
   able to buy any gum in Singapore and when you need to get rid of your gum,
   make sure you put it in a bin - see "littering" above.]
 - Don't carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
-  [Comment: Eating Durian is another must-try experience in Singapore. However, carrying them in public transport is a fineable offense. If you really want to carry it onto public transport, mention it to the sellers and they will make sure it's wrapped thoroughly so that the smell does not escape).
+  [Comment: Eating Durian is another must-try experience in Singapore. However, carrying them in public transport is an offence and you will be fined if caught. If you really want to carry it onto public transport, request for them to be packaged on the spot or consider purchasing ones that have already been packed in styrofoam packages wrapped in clingfilm.]
 - Drink and eat in public transport. You can be fined for it. This is especially true for MRT stations and trains, and less so for buses.
 
 [Comment: You *really* don't want to commit even minor crimes here. Singapore
@@ -169,7 +176,9 @@ Taxis could be a challenge during raining days.
 
 ### MRT and Buses
 
-The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passes. There is no need to buy these unless you plan on making 4+ trips per day.
+The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passesThere is no need to buy these unless you plan on making 4+ trips per day. Available also are standard tickets which can be re-used for up to 6 times, purchasable at General Ticketing Machines (GTM) at all LRT and MRT stations.
+
+For more information on the various train fares and travel cards, visit [this](http://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-fares-and-travel-cards.html) site.
 
 There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
 are frequent, clean and fast (and *full* of people during rush hour). (They run
@@ -190,14 +199,11 @@ transport system:
   Tells you which bus or MRT to take to get from A to B.
 
 - CityMapper ([iOS](https://itunes.apple.com/us/app/citymapper-ultimate-transit/id469463298?mt=8), [Android](https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en))
+- Moovit ([iOS](https://itunes.apple.com/us/app/id498477945), [Android](https://play.google.com/store/apps/details?id=com.tranzmate), [Windows Phone](https://www.microsoft.com/en-us/store/apps/moovit/9wzdncrfhzk0))
 
-  Full featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options. 
+  Fully featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options. 
 
-Changi Airport has a MRT station at Terminal 2 and it takes about 45 min to get
-into town. You take the train past expo which ends at Tanah Merah, then you
-wait for a green line train *from* Pasir Ris *towards* Joo Koon. This then
-takes you into the central area (probably City Hall or Raffles Place - don't go
-all the way to Joo Koon!).
+Situated between Terminals 2 and 3 is the Changi Airport MRT station which can get you into the heart of our lion city in approximately 45 minutes. However, as the line serving the airport terminates at Tanah Merah (right after Expo station), you will then be required to cross platforms and head towards to the platform with trains heading *towards* Joo Koon (do keep a look out for the signs!). The train heads all the way towards the West of the island via City Hall or Raffles Place stations which are our Central Business District (CBD) - don't go all the way to Joo Koon!
 
 ## Food
 
@@ -420,6 +426,7 @@ for paying by cash.
 
 VISA and MasterCard are commonly accepted. Many retailers still don't accept
 AMEX. Some retailers accept Discover, but best to assume most don't.
+
 
 ## Co-working Spaces
 
