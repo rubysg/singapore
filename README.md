@@ -9,7 +9,7 @@ put together by members of the Singapore Ruby community.
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Free WiFi](#free-wifi)
-- [Goods and Services Tax (GST)](#gst)
+- [Goods and Services Tax (GST)](#goods-and-services-tax-(GST))
 - [Tipping](#tipping)
 - [Tissue Culture](#tissue-culture)
 - [Communication](#communication)
