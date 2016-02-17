@@ -178,7 +178,7 @@ underground in the central part of Singapore.) Can checkout [MRT Rail Routes Exp
 There are the [buses](http://www.sbstransit.com.sg/) which go everywhere, and
 are also very clean and comfortable. Can checkout [Singapore Bus Routes Explorer](https://busrouter.sg).
 
-There are two apps that you might find helpful for getting around on the public
+There are a few apps that you might find helpful for getting around on the public
 transport system:
 
 - SBS Transit iris ([iOS](https://itunes.apple.com/sg/app/sbs-transit-iris/id429899929), [Android](https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid))
@@ -188,6 +188,10 @@ transport system:
 - gothere.sg ([iOS](https://itunes.apple.com/sg/app/gothere.sg/id348131804), [Android](https://play.google.com/store/apps/details?id=com.hema.gothere.sg))
 
   Tells you which bus or MRT to take to get from A to B.
+
+- CityMapper ([iOS](https://itunes.apple.com/us/app/citymapper-ultimate-transit/id469463298?mt=8), [Android](https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en))
+
+  Full featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options. 
 
 Changi Airport has a MRT station at Terminal 2 and it takes about 45 min to get
 into town. You take the train past expo which ends at Tanah Merah, then you
@@ -353,7 +357,7 @@ One of the two major passions (the other being eating) of Singaporeans.
   your hard-earned cash. Some bargaining may be possible. Caveat: not all shops
   are trustworthy.
 
-  Nearest MRT station: Bugis (East West and Downtown Lines).
+  Nearest MRT station: Rochor (Downtown Line).
 
 - Sim Lim Tower
 
