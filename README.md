@@ -43,6 +43,7 @@ put together by members of the Singapore Ruby community.
 - [Sight Seeing](#sight-seeing)
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
+- [Discussion](#discussion)
 - [License](#license)
 
 ## Meetups
@@ -424,6 +425,10 @@ AMEX. Some retailers accept Discover, but best to assume most don't.
 ## Co-working Spaces
 
 If you plan to bring your work while visiting Singapore, WeBuild SG provides a [partial list of co-working spaces](https://github.com/webuildsg/lists#co-working-spaces).
+
+## Discussion
+
+Some discussion of this list may be found on [Reddit's r/Singapore](https://www.reddit.com/r/singapore/comments/466s52/visitors_to_singapore_a_quick_guide_for_short/).
 
 ## License
 
