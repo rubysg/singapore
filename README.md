@@ -176,7 +176,7 @@ Taxis could be a challenge during raining days.
 
 ### MRT and Buses
 
-The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passesThere is no need to buy these unless you plan on making 4+ trips per day. Available also are standard tickets which can be re-used for up to 6 times, purchasable at General Ticketing Machines (GTM) at all LRT and MRT stations.
+The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passes. There is no need to buy these unless you plan on making 4+ trips per day. Available also are standard tickets which can be re-used for up to 6 times, purchasable at General Ticketing Machines (GTM) at all LRT and MRT stations.
 
 For more information on the various train fares and travel cards, visit [this](http://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-fares-and-travel-cards.html) site.
 
@@ -338,21 +338,22 @@ ask someone at RDRC for recommendations.
 
 ### Singapore Sling
 
-This is an alcoholic drink. I've never tried it but I'm sure it has a lot of
-booze in it.
+This is an alcoholic drink. If you're arriving into Singapore via Singapore Airlines, feel free to request for the Singapore Sling as they serve the Singapore Sling on board -- for free! Most convenience stores around Singapore (7 Eleven/Cheers) have pre-mixed bottles ready for consumption and you may consider purchasing a bottle or two to enjoy!
 
-The quintessential place to drink it is at Raffles Hotel (in the public area),
-but very expensive.
+The quintessential place to drink it is at the 2 storey Long Bar in Raffles Hotel (accessible to the public), the birthplace of the cocktail. However, prices are considerably steeper there.
 
 ## Major Hawker Centres
 
 [Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
 - ABC Market
 - Redhill
+- Chinatown Complex Market & Food Centre
 
 ## Shopping
 
-One of the two major passions (the other being eating) of Singaporeans.
+One of the two major passions (the other being eating) of Singaporeans. Ask any local for their recommendations on places to shop and this particular shopping district will come up. Enter Orchard Road – this 2.2km belt is one of Singapore's premier district for shopping. Located amidst cultural landmarks, lively street activities and dazzling architectural landscapes, you'll be sure to spend at least a full day there if you love shopping!
+
+Worried that you might get lost? Tourist Information Centres have been set up along the shopping belt to assist you in locating various landmarks and attractions within Singapore. You may also consider purchasing various attraction packages at discounted rates at these centres!
 
 ### Electronics
 
@@ -361,7 +362,7 @@ One of the two major passions (the other being eating) of Singaporeans.
   Good for electronics, lower floors specialise in audio, video and cameras.
   Shop around for the best prices and check warranties before plonking down
   your hard-earned cash. Some bargaining may be possible. Caveat: not all shops
-  are trustworthy.
+  are trustworthy. When signing on any documents, be sure to read carefully through the fine print!
 
   Nearest MRT station: Rochor (Downtown Line).
 
@@ -385,28 +386,28 @@ One of the two major passions (the other being eating) of Singaporeans.
   [Comment: It's a nice old building but not that exciting unless you're really into
   museums.]
 - Marina Bay Sands
-- Singapore Zoo
+- Singapore Zoo 
 - Night Safari
 - River Safari
-- Bird Park
-- Sentosa
+- Jurong Bird Park
+- Sentosa Island (easily accessible)
 - S.E.A. Aquarium
 - Universal Studios
-- Merlion
+- The Merlion / Esplanade
 - Orchard Road
 - Sky Garden
 - Singapore Flyer
 - River Cruise
 - F1 Race Track
-- Botanic Gardens
+- Botanical Gardens
 - Macritchie Reservoir
 - Henderson Park
-- China Town
+- Chinatown
 - Haji Lane
-- Pulau Ubin
+- Pulau Ubin (located on a seperate island)
 - Bukit Timah Hill
 - Gardens By the Bay
-  [Comment: Enclosed and air conditioned gardens. Quite impressive unless you have to go
+  [Comment: Enclosed and air conditioned gardens. Quite impressive, you have to go
   there more than once.]
 
 ## Currency
