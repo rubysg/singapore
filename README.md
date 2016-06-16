@@ -1,6 +1,6 @@
 Hi, welcome to Singapore!
 
-This is a handbook for #rubyfriends from overseas
+This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends&src=typd) from overseas
 put together by members of the Singapore Ruby community.
 
 ## Table of Contents
@@ -138,7 +138,7 @@ like an idiot. YMMV.]
   Conveniently they too, have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 - Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
-- Bak Kuh Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html) 
+- Bak Kuh Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html)
 
 ## Don'ts
 
@@ -202,7 +202,7 @@ transport system:
 - CityMapper ([iOS](https://itunes.apple.com/us/app/citymapper-ultimate-transit/id469463298?mt=8), [Android](https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en))
 - Moovit ([iOS](https://itunes.apple.com/us/app/id498477945), [Android](https://play.google.com/store/apps/details?id=com.tranzmate), [Windows Phone](https://www.microsoft.com/en-us/store/apps/moovit/9wzdncrfhzk0))
 
-  Fully featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options. 
+  Fully featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options.
 
 Situated between Terminals 2 and 3 is the Changi Airport MRT station which can get you into the heart of our lion city in approximately 45 minutes. However, as the line serving the airport terminates at Tanah Merah (right after Expo station), you will then be required to cross platforms and head towards to the platform with trains heading *towards* Joo Koon (do keep a look out for the signs!). The train heads all the way towards the West of the island via City Hall or Raffles Place stations which are our Central Business District (CBD) - don't go all the way to Joo Koon!
 
@@ -387,7 +387,7 @@ Worried that you might get lost? Tourist Information Centres have been set up al
   [Comment: It's a nice old building but not that exciting unless you're really into
   museums.]
 - Marina Bay Sands
-- Singapore Zoo 
+- Singapore Zoo
 - Night Safari
 - River Safari
 - Jurong Bird Park
