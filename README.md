@@ -191,6 +191,10 @@ are also very clean and comfortable. Can checkout [Singapore Bus Routes Explorer
 There are a few apps that you might find helpful for getting around on the public
 transport system:
 
+- Google Maps ([iOS](https://itunes.apple.com/sg/app/google-maps-real-time-navigation/id585027354?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en))
+
+  Whenever you are at a particular place in Singapore and if you need to go to another place, Google Maps app is your friend. The reason being that this app provides details like which bus number(s) and/or which train lines can take you from one destination to another. Whichever transport you decide to take(based on which option you choose in the app), Google Maps also helps you to navigate your way to the nearest bus stand or MRT train station from your current location.
+
 - SBS Transit iris ([iOS](https://itunes.apple.com/sg/app/sbs-transit-iris/id429899929), [Android](https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid))
 
   Tells you when the next bus will (hopefully) arrive.
