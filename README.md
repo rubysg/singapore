@@ -66,9 +66,6 @@ from either SingTel or StarHub (or possibly M1).
 and
 [StarHub plans](http://www.starhub.com/personal/mobile/prepaid-plans.html).
 
-You are very unlikely to find a nano format simcard however, which means you
-should look for a phone store.
-
 Looks like [this is the card](https://www.facebook.com/singtel/posts/10152525153311677)
 to get for those who need nano sims.
 
