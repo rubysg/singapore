@@ -167,7 +167,7 @@ please take this into account).
 
 Install ~~one of~~ the following apps:
 - Grab (previously GrabTaxi)
-~~- Uber~~
+- ~~Uber~~
 
 You can also walk to a Taxi stand or flag down a taxi from the street.
 
