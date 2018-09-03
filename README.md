@@ -165,7 +165,7 @@ please take this into account).
 
 ### Taxi
 
-Install ~~one of~~ the following apps:
+Install ~~one of~~ the following app:
 - Grab (previously GrabTaxi)
 - ~~Uber~~
 
