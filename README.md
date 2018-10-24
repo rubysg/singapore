@@ -171,7 +171,7 @@ Install ~~one of~~ the following app:
 
 You can also walk to a Taxi stand or flag down a taxi from the street.
 
-Taxis could be a challenge during raining days.
+Taxis could be a challenge during rainy days.
 
 ### MRT and Buses
 
@@ -236,7 +236,7 @@ This is a traditional Malays dish of chicken, rice and other nice things.
 ### Carrot Cake
 
 Go into any hawker centre and you'll find carrot cake. There are two varieties,
-black and white.
+black and white. You can order for a mix of both as well!
 
 ### Popiah
 
