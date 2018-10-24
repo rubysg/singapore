@@ -136,7 +136,7 @@ like an idiot. YMMV.]
   Conveniently they too, have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
 - Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
 - Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
-- Bak Kuh Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html)
+- Bak Kut Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html)
 
 ## Don'ts
 
@@ -206,7 +206,7 @@ transport system:
 
   Fully featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options.
 
-Situated between Terminals 2 and 3 is the Changi Airport MRT station which can get you into the heart of our lion city in approximately 45 minutes. However, as the line serving the airport terminates at Tanah Merah (right after Expo station), you will then be required to cross platforms and head towards to the platform with trains heading *towards* Joo Koon (do keep a look out for the signs!). The train heads all the way towards the West of the island via City Hall or Raffles Place stations which are our Central Business District (CBD) - don't go all the way to Joo Koon!
+Situated between Terminals 2 and 3 is the Changi Airport MRT station which can get you into the heart of our lion city in approximately 45 minutes. However, as the line serving the airport terminates at Tanah Merah (right after Expo station), you will then be required to cross platforms and head towards to the platform with trains heading *towards* Tuas Link (do keep a look out for the signs!). The train heads all the way towards the West of the island via City Hall or Raffles Place stations which are our Central Business District (CBD) - don't go all the way to Tuas Link!
 
 ## Food
 
@@ -229,7 +229,7 @@ You can get this at the drink stall in almost every hawker center. Ask for "brea
 
 ### Nasi Lemak
 
-This is a traditional Malays dish of chicken, rice and other nice things.
+This is a traditional Malay dish of chicken, coconut rice and other nice things.
 
 [Comment: Sorry, but I haven't found a really good Nasi Lemak in Singapore.]
 
