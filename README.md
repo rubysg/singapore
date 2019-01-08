@@ -238,6 +238,12 @@ This is a traditional Malay dish of chicken, coconut rice and other nice things.
 Go into any hawker centre and you'll find carrot cake. There are two varieties,
 black and white. You can order for a mix of both as well!
 
+#### Where can I find it?
+
+##### He Zhong Carrot Cake
+
+Address: 51 Upper Bukit Timah Rd, #02-185, Singapore 588172 [Map](https://goo.gl/maps/JABqmHkrMes)
+
 ### Popiah
 
 A spicy roll and a great option for vegetarians.
@@ -294,6 +300,12 @@ are a "must try".
 Kway Chap is a Teochew dish of flat, broad rice sheets in a soup made with dark soy sauce, served with pig offal, braised duck meat, various kinds of beancurd, preserved salted vegetables, and braised hard-boiled eggs. Fit for the slightly adventurous!
 
 [Pictures of Kway Chap via Google](https://www.google.com.sg/search?q=kway+chap+singapore&es_sm=91&source=lnms&tbm=isch&sa=X&ei=rRiqU7e_CsmHuAS3yYGQBA&ved=0CAgQ_AUoAQ&biw=1916&bih=986)
+
+#### Where can I find it?
+
+##### Lao San Kway Chap
+
+Address: 232 Ang Mo Kio Ave 3, #01-1222, Singapore 560232 [Map](https://goo.gl/maps/vq4gNeDrUeE2)
 
 ### Chilli Crab
 
