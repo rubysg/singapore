@@ -173,6 +173,8 @@ You can also walk to a Taxi stand or flag down a taxi from the street.
 
 Taxis could be a challenge during rainy days.
 
+Can checkout [Taxi Router Explorer](https://taxirouter.sg/).
+
 ### MRT and Buses
 
 The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passes. There is no need to buy these unless you plan on making 4+ trips per day. Available also are standard tickets which can be re-used for up to 6 times, purchasable at General Ticketing Machines (GTM) at all LRT and MRT stations.
