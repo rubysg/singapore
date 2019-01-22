@@ -34,6 +34,7 @@ put together by members of the Singapore Ruby community.
   - [Kway Chap](#kway-chap)
   - [Chilli Crab](#chilli-crab)
   - [Wanton Noodles](#wanton-noodles)
+- [Indie Bookstore](#indie-bookstore)
 - [Coffee Culture](#coffee-culture)
 - [Cat Cafes](#cat-cafes)
 - [Drinking Locations](#drinking-locations)
@@ -328,6 +329,10 @@ Worth visiting [Foong Kee Coffee Shop](http://www.hungrygowhere.com/singapore/fo
 if you're in Chinatown.
 
 ![Wanton Min](/images/wanton_min.jpg)
+
+## Indie Bookstore
+
+- [BooksActually](https://www.booksactuallyshop.com/pages/about)
 
 ## Coffee Culture
 
