@@ -332,7 +332,7 @@ if you're in Chinatown.
 
 ### Putu Piring / Kueh Tutu
 
-Putu Piring is a Traditional Singaporean trat. Steamed rice cake filled with gula melaka (melted palm sugar). Served with grated coconut, squares of pandan leaf, has subtle, sweet vanilla fragrance.
+Putu Piring is a Traditional Singaporean treat. Steamed rice cake filled with gula melaka (melted palm sugar). Served with grated coconut, squares of pandan leaf, has subtle, sweet vanilla fragrance.
 
 ## Indie Bookstore
 
