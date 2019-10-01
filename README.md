@@ -370,7 +370,8 @@ The quintessential place to drink it is at the 2 storey Long Bar in Raffles Hote
 
 ## Major Hawker Centres
 
-[Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
+- [Lau Pa Sat](https://www.google.com/maps/place/Lau+Pa+Sat+Food+Court/@1.2804831,103.8505926,15z/data=!4m2!3m1!1s0x0:0xc443acfcf5de1716?sa=X&ved=2ahUKEwitvcPi1_rkAhXzheYKHVItA5MQ_BIwG3oECA4QCA)
+- [Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
 - ABC Market
 - Redhill
 - Chinatown Complex Market & Food Centre
