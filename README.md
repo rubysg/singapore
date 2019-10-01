@@ -356,11 +356,31 @@ You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They a
 
 - Club Street
 - Clarke Quay
-  [Comment: If you like local beers, [The Pump Room](http://www.pumproomasia.com/)
-  at Clarke Quay is worth visiting to try their ales.]
 
 Of course there will be many other places that people drink in Singapore, just
 ask someone at RDRC for recommendations.
+
+### Craft Beer
+
+- [Pink Blossoms Brewing](https://www.google.com/search?q=pink+blossoms&rlz=1C5CHFA_enSG848SG848&oq=pink+blossoms&aqs=chrome..69i57j0l5.4637j0j7&sourceid=chrome&ie=UTF-8#) (local)
+- [Druggists](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=xxmTXcOQE-zA3LUP9Y-DwAs&q=druggists&oq=druggists&gs_l=psy-ab.3..0l9j0i10.8250.9507..9650...0.1..0.62.468.9......0....1..gws-wiz.......0i71j0i273j0i67j0i131j0i131i67.qAK28AK3Ep8&ved=0ahUKEwiDkOag3frkAhVsILcAHfXHALgQ4dUDCAs&uact=5#)
+- [American Taproom](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=0hmTXdLmAtS_3LUPhJSQkA4&q=american+taproom&oq=american+&gs_l=psy-ab.3.0.0i273l2j0i131l4j0l4.7584.8467..9292...0.1..0.61.397.9......0....1..gws-wiz.......0i71j0i67.dwGh1u2j_6I#)
+- [Temple Cellars](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=3BmTXeT9I9SLmgeA7qawCg&q=temple+cellars&oq=temple+cellars&gs_l=psy-ab.3..0l2j0i22i30l2j38.6801.9417..9607...2.1..0.75.767.16......0....1..gws-wiz.......0i71j0i273j0i67j0i131j0i3j0i10j0i22i10i30.rUK7sNm0BjI&ved=0ahUKEwjk2_iq3frkAhXUheYKHQC3CaYQ4dUDCAs&uact=5#)
+- [Smith Street Taps](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=5xmTXfKVD4DWz7sP0Jq0kAE&q=smith+street+taps&oq=smith+st&gs_l=psy-ab.3.0.0i273j0l9.7841.8672..9736...0.1..0.69.383.8......0....1..gws-wiz.......0i71j0i67j0i131.EmXc33RDHX0#)
+- [3rd Culture Brewing](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=3rd+culture&npsic=0&rflfq=1&rlha=0&rllag=1294511,103865577,2789&tbm=lcl&ved=2ahUKEwjLzpm63frkAhVg6XMBHZwxDE4QtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rldoc=1)
+- [Little Creatures](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=_BmTXcvgI-DSz7sPnOOw8AQ&q=little+creatures&oq=little+creatures&gs_l=psy-ab.3..0l10.11996.13920..14061...0.2..1.195.911.15j1......0....1..gws-wiz.......0i71j0i273j0i131j0i67.F1JI4YE0rnE&ved=0ahUKEwjLzpm63frkAhVg6XMBHZwxDE4Q4dUDCAs&uact=5#) (Australian)
+- [Heart of Darkness](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=LRqTXfuZOfGH8QPO-b2ADA&q=heart+of+darkness+craft+brewery+singapore&oq=heart+of+darkness+craft+brewery+sin&gs_l=psy-ab.3.0.0.3411.3712..4433...0.2..0.51.191.4......0....1..gws-wiz.......0i71j0i22i30.KqNGJkvSjq4#) (local + imports)
+- [Freehouse](https://www.google.com/search?q=freehouse&rlz=1C5CHFA_enSG848SG848&oq=freehouse&aqs=chrome..69i57j0l5.1200j0j9&sourceid=chrome&ie=UTF-8#)
+- [Burger Joint](https://www.google.com/search?q=burger+joint&rlz=1C5CHFA_enSG848SG848&oq=burger+join&aqs=chrome.0.0j69i57j0l4.1964j0j9&sourceid=chrome&ie=UTF-8#)
+- [Good Luck Beer House](https://www.google.com/search?q=good+luck+beerhouse&rlz=1C5CHFA_enSG848SG848&oq=good+luck+beerhouse&aqs=chrome..69i57j0l5.4627j0j9&sourceid=chrome&ie=UTF-8#) (local + imports)
+- [Little Island Brewing](https://www.google.com/search?q=little+island+brewing+co&rlz=1C5CHFA_enSG848SG848&oq=little+island+brew&aqs=chrome.0.0j69i57j0l4.2429j0j9&sourceid=chrome&ie=UTF-8#) (local)
+- [TAP](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=TAP+craft+beer&npsic=0&rflfq=1&rlha=0&rllag=1286976,103847393,1259&tbm=lcl&ved=2ahUKEwiVltDy3frkAhWmILcAHWD7D9MQtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:4&rldoc=1)
+- [The Great Beer Experiment](https://www.google.com/search?q=the+great+beer+experiment&rlz=1C5CHFA_enSG848SG848&oq=the+great+beer+e&aqs=chrome.1.69i57j0l5.2469j0j9&sourceid=chrome&ie=UTF-8#)
+- [Nickeldime](https://www.google.com/search?q=nickeldime&rlz=1C5CHFA_enSG848SG848&oq=nickeldime&aqs=chrome..69i57j0l5.1327j0j9&sourceid=chrome&ie=UTF-8#)
+- [JiBiru](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=jRqTXbHQBLzhz7sPkJq0SA&q=jibiru&oq=jibiru&gs_l=psy-ab.3..0l7j0i10l3.6908.7690..7905...0.1..0.57.284.6......0....1..gws-wiz.......0i71j0i273j0i131.iZTv_q5wsiY&ved=0ahUKEwjxyoz_3frkAhW88HMBHRANDQkQ4dUDCAs&uact=5#) (Japanese)
+- [RedDot Brewhouse](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=reddot&npsic=0&rflfq=1&rlha=0&rllag=1293160,103833910,2877&tbm=lcl&ved=2ahUKEwj2uqqJ3vrkAhUc7HMBHQIFCYUQtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rldoc=1) (local)
+- [Brewerks](https://www.google.com/search?q=brewerks&rlz=1C5CHFA_enSG848SG848&oq=brewerks&aqs=chrome..69i57j0l5.2021j0j9&sourceid=chrome&ie=UTF-8#) (local)
+- [The Pump Room](http://www.pumproomasia.com/) (local)
 
 ### Singapore Sling
 
@@ -370,7 +390,8 @@ The quintessential place to drink it is at the 2 storey Long Bar in Raffles Hote
 
 ## Major Hawker Centres
 
-[Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
+- [Lau Pa Sat](https://www.google.com/maps/place/Lau+Pa+Sat+Food+Court/@1.2804831,103.8505926,15z/data=!4m2!3m1!1s0x0:0xc443acfcf5de1716?sa=X&ved=2ahUKEwitvcPi1_rkAhXzheYKHVItA5MQ_BIwG3oECA4QCA)
+- [Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
 - ABC Market
 - Redhill
 - Chinatown Complex Market & Food Centre
