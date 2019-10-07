@@ -456,6 +456,7 @@ Worried that you might get lost? Tourist Information Centres have been set up al
 - Gardens By the Bay
   [Comment: Enclosed and air conditioned gardens. Quite impressive, you have to go
   there more than once.]
+- The Rain Vortex at the Jewel Changi Airport 
 
 ## Currency
 
