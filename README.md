@@ -1,49 +1,52 @@
 Hi, welcome to Singapore!
 
-This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends&src=typd) from overseas
-put together by members of the Singapore Ruby community.
+This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends&src=typd) from overseas, put together by members of the Singapore Ruby community.
 
 ## Table of Contents
 
 - [Meetups](#meetups)
 - [Data SIM Card](#data-sim-card)
-- [Power (Socket)](#power-socket)
+- [Power Plugs](#power-plugs)
+- [Currency](#currency)
 - [Free WiFi](#free-wifi)
 - [Goods and Services Tax (GST)](#goods-and-services-tax-gst)
 - [Tipping](#tipping)
 - [Tissue Culture](#tissue-culture)
 - [Communication](#communication)
-- [What to buy to bring back home](#what-to-buy-to-bring-back-home)
+- [Shopping](#shopping)
 - [Don'ts](#donts)
 - [Getting Around](#getting-around)
-  - [Taxi](#taxi)
-  - [MRT and Buses](#mrt-and-buses)
+   - [Taxis and Private Hires](#taxis-and-private-hires)
+   - [MRT and Buses](#mrt-and-buses)
+   - [Transport Apps](#transport-apps)
 - [Food](#food)
-  - [ieat Ultimate Food Trail](#ieat-ultimate-food-trail)
-  - [Kaya Toast with Eggs](#kaya-toast-with-eggs)
-  - [Nasi Lemak](#nasi-lemak)
-  - [Carrot Cake](#carrot-cake)
-  - [Popiah](#popiah)
-  - [Chicken Rice](#chicken-rice)
-  - [Ice Kacang](#ice-kacang)
-  - [Tsui Kway / Chwee Kueh](#tsui-kway--chwee-kueh)
-  - [Laksa](#laksa)
-  - [Bak Kut Teh](#bak-kut-teh)
-  - [Rojak](#rojak)
-  - [Dim Sum](#dim-sum)
-  - [Kway Chap](#kway-chap)
-  - [Chilli Crab](#chilli-crab)
-  - [Wanton Noodles](#wanton-noodles)
-- [Indie Bookstore](#indie-bookstore)
+   - [ieat Ultimate Food Trail](#ieat-ultimate-food-trail)
+   - [Kaya Toast with Eggs](#kaya-toast-with-eggs)
+   - [Nasi Lemak](#nasi-lemak)
+   - [Carrot Cake](#carrot-cake)
+   - [Popiah](#popiah)
+   - [Chicken Rice](#chicken-rice)
+   - [Ice Kacang](#ice-kacang)
+   - [Tsui Kway / Chwee Kueh](#tsui-kway-chwee-kueh)
+   - [Laksa](#laksa)
+   - [Bak Kut Teh](#bak-kut-teh)
+   - [Rojak](#rojak)
+   - [Dim Sum](#dim-sum)
+   - [Kway Chap](#kway-chap)
+   - [Chilli Crab](#chilli-crab)
+   - [Wanton Noodles](#wanton-noodles)
+   - [Putu Piring / Kueh Tutu](#putu-piring-kueh-tutu)
+- [Indie Bookstores](#indie-bookstores)
 - [Coffee Culture](#coffee-culture)
 - [Cat Cafes](#cat-cafes)
-- [Drinking Locations](#drinking-locations)
-  - [Singapore Sling](#singapore-sling)
+- [Drinks](#drinks)
+   - [Cocktails](#cocktails)
+   - [Craft Beers](#craft-beers)
+   - [Singapore Sling](#singapore-sling)
 - [Major Hawker Centres](#major-hawker-centres)
-- [Shopping](#shopping)
-  - [Electronics](#electronics)
-- [Sight Seeing](#sight-seeing)
-- [Currency](#currency)
+- [Shopping](#shopping-1)
+   - [Electronics](#electronics)
+- [Sightseeing](#sightseeing)
 - [Co-working Spaces](#co-working-spaces)
 - [Discussion](#discussion)
 - [License](#license)
@@ -56,167 +59,125 @@ For updates on the latest meetup, please check us out on [Meetup.com](http://www
 
 ## Data SIM Card
 
-At Changi Airport (currency exchange counter) you could buy a $15 (5 days) / $30 (10 days) Singtel Prepaid SIM Card with up to 14 GB data.
+At Changi Airport you can buy a S$12 Singtel (100GB, 14 days) or Starhub (100GB, 10 days) plan. Alternatively, you can buy an Airalo eSIM before you arrive from US$4.50.
 
-[![tourist_sim1](https://user-images.githubusercontent.com/761959/27039168-beac3314-4fbf-11e7-8ca8-704a92bc0921.png)](http://info.singtel.com/personal/phones-plans/mobile/prepaid/hitouristsimcards)
-[![tourist_sim2](https://user-images.githubusercontent.com/761959/27039169-beddf430-4fbf-11e7-93c6-89bd7d3a7de1.png)](http://info.singtel.com/personal/phones-plans/mobile/prepaid/hitouristsimcards)
-
-You can go into most convenience stores (eg. 7-11) and buy a pre-paid simcard
+You can also go into most convenience stores (eg. 7-11) and buy a pre-paid simcard
 from either SingTel or StarHub (or possibly M1).
 
-[SingTel plans](http://info.singtel.com/personal/phones-plans/mobile/singtel-prepaid)
-and
-[StarHub plans](http://www.starhub.com/personal/mobile/prepaid-plans.html).
+- [SingTel plans](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist)
+- [StarHub plans](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards/travel-sim.html).
+- [Airalo plans](https://www.airalo.com/singapore-esim)
 
-Looks like [this is the card](https://www.facebook.com/singtel/posts/10152525153311677)
-to get for those who need nano sims.
+## Power Plugs
 
-## Power (Socket)
+The standard in Singapore is 230V Type G (three pin) sockets.
+![Type G](https://www.iec.ch/themes/custom/iec/images/world-plugs/types/G/G_dia_sock_l.png)
 
-This [bad boy](http://www.iec.ch/worldplugs/typeG.htm) (Type G, BS 1363 UK, 230-240V).
+Most hotels have universal plugs that work with Type C (two pin) plugs, but you should consider bringing a travel adapter just in case.
 
-Sometimes you can force the two prong [European Type C](http://www.iec.ch/worldplugs/typeC.htm)
-into the socket, but it involves shoving a something small and non-metallic into the third hole, so I
-tend to avoid using this one.
+## Currency
+
+It's a good idea to bring [Singapore dollars
+(SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
+you can easily get cash out at ATMs after you arrive if necessary. While
+credit cards are widely accepted here, cash is still king, especially at Hawker centers. 
+
+Some retailers have a habit of adding additional surcharges for credit card purchases, so, you might find that you get a small "discount" for paying with cash.
 
 ## Free WiFi
 
-Changi Airport has it.
+Changi Airport offers [3 hour free wifi](https://www.changiairport.com/en/airport-guide/facilities-and-services/internet-connection.html). 
 
-[Comment: Changi Airport is *amazing*. I returned from a trip one day and to
-get from the gate, through customs and into a taxi took FOUR minutes.]
+[Wireless@SG](https://www.imda.gov.sg/how-we-can-help/wireless-at-sg/wireless-at-sg-for-consumers) is an open network available at almost every shopping mall, library and public space.
 
-Wireless@SG is an open network available at almost every shopping mall, library and McDonalds.
-Requires a log in. [Sign up here, under "Non-Singtel Customers"](http://info.singtel.com/personal/internet/broadband-on-the-go/wireless-sg). There is also a second network SSID called Wireless@SGx, which uses WPA-Enterprise + TKIP for authentication.
-
-And the reboutable ladyironchef [lays down](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
-where the free wifi cafes are.
+You can also consider checking out the [cafes with free wi-fi](http://www.ladyironchef.com/2013/08/cafes-free-wifi-singapore/)
 
 ## Goods and Services Tax (GST)
 
-Do take note that Singapore imposes a 7% levy on nearly all forms of goods and services rendered/sold on the island. This price is mostly (if not, always) included in the listed price. However, some establishments may still leave out the tax on listed pricings.
-
-Hence, do still keep a lookout for text at the bottom of menus and product listings that indicate the non-addition of tax and service charge and calculate accordingly.
+Do take note that Singapore imposes a 9% levy on nearly all forms of goods and services. The prices for goods almost always include the GST. The restaurants menus however usually exclude the GST and service charge. It's common practice for restaurants to include a text at the bottom of menus for "++" which indicate additional tax and service charge respectively.
 
 ## Tipping
 
-No real need to tip. Leave a few coins if you'd like (to get rid of your coins).
+It's not expected to leave a tip in Singapore. Although feel free to leave a few coins at the end of your meal if you feel like it.
 
-You don't need to tip at a hawker food stall, and normal restaurants include a
-10% service charge.
-
-[Comment: Oh and talking about coins, Singapore is in a transition from one set
-of coins to another differently sized set. So you'll get two sizes of each
-coin. Yay!]
+Hawker centers are mostly self-service and don't have service charges. Restaurants typically add 10% service charge to your final bill.
 
 ## Tissue Culture
 
-Singaporeans often leave tissues on seats in busy food halls (hawker centres
-etc.) while they walk around and buy food. I know you'll be tempted but best
-not to remove the tissue and sit down.
+Singaporeans often leave tissues on tables in busy food courts and hawker centers before they order their food to "reserve" the table. You might be tempted to remove it, but don't. Just find another table and use your own tissue to reserve it.
 
-[Comment: If you need your own tissues, hawker centres are the place to buy
-them. You'll often find an older gentleman or lady offering one, two or more
-packets for a dollar or two.]
+If you don't have a tissue, most hawker centers have an old lady or gentleman offering for a dollar or two, feel free to buy from them.
 
 ## Communication
 
-English mainly.
-[Singlish](http://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html).
+English is widely spoken everywhere. You might hear [Singlish](https://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html) from time to time among Singaporeans. It's fun to learn, but you will sound silly if you try to imitate it.
 
-[Comment: You'll look like an idiot if you try this slang. I sometimes answer
-"are you able to?" questions with "can!", but mostly that just makes me look
-like an idiot. YMMV.]
+## Shopping
 
-## What to buy to bring back home
+Here are a few food suggestions to bring back home:
 
-- Bak Kwa
-  For those who like their pork. Just walk into any
-  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) ([outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bee-cheng-hiang.html)) or [Lim Chee Guan](http://www.limcheeguan.com.sg/)
-- Pandan Cake or Kueh Lapis from Bengawan Solo
-  Conveniently they too, have [outlets at Changi Airport](http://www.changiairport.com/shopping-and-dining/shopping/bengawan-solo).
-- Pineapple cakes from [Sunny Hills](http://www.sunnyhills.com.sg/stores.php)
+- [Bak Kwa](https://en.wikipedia.org/wiki/Bakkwa), a Chinese salty-sweet dried meat product similar to jerky. 
+  [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) or [Lim Chee Guan](http://www.limcheeguan.com.sg/) are both good options.
+- [Pandan Cake](https://en.wikipedia.org/wiki/Pandan_cake) or [Kueh Lapis](https://en.wikipedia.org/wiki/Kue_lapis) from [Bengawan Solo](https://bengawansolo.sg)
+- Pineapple cakes from [Sunny Hills](https://www.sunnyhills.com.sg/collections/all-pineapple-cakes-product)
 - Kaya Jam and Kopi powder from [Ya Kun](http://yakun.com/menu/merchandise)
-- Bak Kut Teh stock powder from [Song Fa](http://www.songfa.com.sg/bak-kut-teh-spice.html)
+- Bak Kut Teh products from [Song Fa](https://songfa.com.sg/pages/retail-products)
 
 ## Don'ts
 
+Avoid these while in Singapore:
+
 - Vandalism
 - Littering
+- Drugs
 - Chewing gum
-  [Comment: Actually you can chew gum like a cow chews cud, but you won't be
-  able to buy any gum in Singapore and when you need to get rid of your gum,
-  make sure you put it in a bin - see "littering" above.]
-- Don't carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
-  [Comment: Eating Durian is another must-try experience in Singapore. However, carrying them in public transport is an offence and you will be fined if caught. If you really want to carry it onto public transport, request for them to be packaged on the spot or consider purchasing ones that have already been packed in styrofoam packages wrapped in clingfilm.]
-- Drink and eat in public transport. You can be fined for it. This is especially true for MRT stations and trains, and less so for buses.
+- Drining and eating in public transport. You can be fined for it. This is especially true for MRT stations and trains.
+- Carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
 
-[Comment: You *really* don't want to commit even minor crimes here. Singapore
+You *really* don't want to commit crimes here. Singapore
 takes its law and order very seriously - one of the reasons it's a very nice
-place to live.]
+place to live.
 
 ## Getting Around
 
-Public transport in Singapore is excellent (see below) and probably should be
+Public transport in Singapore is excellent and probably should be
 your first choice.
 
-If you're in the central area you can certainly get to many places by walking
-(but of course it's always hot and humid - and sometimes raining heavily - so
-please take this into account).
+You can certainly get to many places –especially in central areas– by walking, but keep in mind that it's always hot and humid. Always carry a hat, umbrella and stay hydrated.
 
-### Taxi
+### Taxis and Private Hires
 
-Install ~~one of~~ the following app:
-- Grab (previously GrabTaxi)
-- ~~Uber~~
+The most commonly used private hire apps in Singapore are [Grab](https://www.grab.com/sg/) and [Tada](https://tada.global). Download either/both to hail a ride (similar to Uber).
 
-You can also walk to a Taxi stand or flag down a taxi from the street.
-
-Taxis could be a challenge during rainy days.
-
-Can checkout [Taxi Router Explorer](https://taxirouter.sg/).
+You can also wait at a taxi stand, but this could be a challenge during peak hours or rainy days. You can also check out [Taxi Router Explorer](https://taxirouter.sg/).
 
 ### MRT and Buses
 
-The public transport system runs on a reloadable contactless card called EZ-Link. There are 1, 2, and 3 day unlimited "Tourist" passes. There is no need to buy these unless you plan on making 4+ trips per day. Available also are standard tickets which can be re-used for up to 6 times, purchasable at General Ticketing Machines (GTM) at all LRT and MRT stations.
+The public transport system in Singapore is excellent and affordable. You can use any Visa/Mastercard Debit or Credit card (or a digital version) to pay for your ride. You do not need to download anything, but there's a [SimplyGo app](https://www.lta.gov.sg/content/dam/ltagov/getting_around/public_transport/pdf/LR9364%2B9293D_LTA_400x210_8pp_%20Eng.pdf) for you to download and register if you need details on your charges.
 
-For more information on the various train fares and travel cards, visit [this](http://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-fares-and-travel-cards.html) site.
+Alternatively, you can get a prepaid [EZ-link card](https://www.ezlink.com.sg/get-your-ez-link-card/where-the-cards-are-sold/) at most MRT stations and bus interchanges.
 
-There are the [MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) which
-are frequent, clean and fast (and *full* of people during rush hour). (They run
-underground in the central part of Singapore.) Can checkout [MRT Rail Routes Explorer](https://railrouter.sg).
+[MRT trains](http://www.smrt.com.sg/Trains/NetworkMap.aspx) are frequent, clean and fast, although they can get crowded during rush hour. You can check out [MRT Rail Routes Explorer](https://railrouter.sg).
 
-There are the [buses](http://www.sbstransit.com.sg/) which go everywhere, and
-are also very clean and comfortable. Can checkout [Singapore Bus Routes Explorer](https://busrouter.sg).
+[Buses](http://www.sbstransit.com.sg/) are also widely available, clean and comfortable, especially for shorter distances. You can check out [Singapore Bus Routes Explorer](https://busrouter.sg).
 
-There are a few apps that you might find helpful for getting around on the public
-transport system:
+### Transport Apps
 
 - Google Maps ([iOS](https://itunes.apple.com/sg/app/google-maps-real-time-navigation/id585027354?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en))
 
-  Whenever you are at a particular place in Singapore and if you need to go to another place, Google Maps app is your friend. The reason being that this app provides details like which bus number(s) and/or which train lines can take you from one destination to another. Whichever transport you decide to take(based on which option you choose in the app), Google Maps also helps you to navigate your way to the nearest bus stand or MRT train station from your current location.
+- SBS Transit iris ([iOS](https://itunes.apple.com/sg/app/sbs-transit-iris/id429899929), [Android](https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid)) tells you when the next bus will arrive.
 
-- SBS Transit iris ([iOS](https://itunes.apple.com/sg/app/sbs-transit-iris/id429899929), [Android](https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid))
-
-  Tells you when the next bus will (hopefully) arrive.
-
-- gothere.sg ([iOS](https://itunes.apple.com/sg/app/gothere.sg/id348131804), [Android](https://play.google.com/store/apps/details?id=com.hema.gothere.sg))
-
-  Tells you which bus or MRT to take to get from A to B.
+- gothere.sg ([iOS](https://itunes.apple.com/sg/app/gothere.sg/id348131804), [Android](https://play.google.com/store/apps/details?id=com.hema.gothere.sg)) tells you which bus or MRT to take to get from A to B.
 
 - CityMapper ([iOS](https://itunes.apple.com/us/app/citymapper-ultimate-transit/id469463298?mt=8), [Android](https://play.google.com/store/apps/details?id=com.citymapper.app.release&hl=en))
+
 - Moovit ([iOS](https://itunes.apple.com/us/app/id498477945), [Android](https://play.google.com/store/apps/details?id=com.tranzmate), [Windows Phone](https://www.microsoft.com/en-us/store/apps/moovit/9wzdncrfhzk0))
 
   Fully featured transport app that provides you different route options, where to alight, which part of the train you should enter and heat-safe options.
 
-Situated between Terminals 2 and 3 is the Changi Airport MRT station which can get you into the heart of our lion city in approximately 45 minutes. However, as the line serving the airport terminates at Tanah Merah (right after Expo station), you will then be required to cross platforms and head towards to the platform with trains heading *towards* Tuas Link (do keep a look out for the signs!). The train heads all the way towards the West of the island via City Hall or Raffles Place stations which are our Central Business District (CBD) - don't go all the way to Tuas Link!
-
 ## Food
 
-These are some of the local food that you should try if you are in Singapore.
-
-[Comment: I've added photos for a few of the foods listed here, mostly the ones I've tried in Singapore.
-If you're interested in some of the others, just grab a staff member at RDRC for suggestions about where to find them.]
+Singapore has excellent food variety, from affortable hawker fare to Michelin starred restaurants. Singaporeans can be quite opiniated about their favourites, so feel free to ask locals for advice and they will be happy to help you.
 
 ### ieat Ultimate Food Trail
 
@@ -234,18 +195,13 @@ You can get this at the drink stall in almost every hawker center. Ask for "brea
 
 This is a traditional Malay dish of chicken, coconut rice and other nice things.
 
-[Comment: Sorry, but I haven't found a really good Nasi Lemak in Singapore.]
+- [Coconut Club](https://www.thecoconutclub.sg) has a hip vibe and serves good Nasi Lemak.
+- [Wild Coco](https://wildcoco.sg) is another great option for lunch.
 
 ### Carrot Cake
 
 Go into any hawker centre and you'll find carrot cake. There are two varieties,
-black and white. You can order for a mix of both as well!
-
-#### Where can I find it?
-
-##### He Zhong Carrot Cake
-
-Address: 51 Upper Bukit Timah Rd, #02-185, Singapore 588172 [Map](https://goo.gl/maps/JABqmHkrMes)
+black and white. You can order for a mix of both as well. Try [He Zhong Carrot Cake](https://maps.app.goo.gl/FdJePP7j5G7NGiZo7).
 
 ### Popiah
 
@@ -257,24 +213,17 @@ A spicy roll and a great option for vegetarians.
 
 This is a very famous Singaporean dish.
 
-Tian Tian in the Maxwell Food Centre is very famous (and I hear half decent).
-If you like to stand in a long queue, please go there at lunch. If you don't go
-there at lunch, they're unlikely to be open.
+Tian Tian in the Maxwell Food Centre is very famous, although the queues can get long, so arrive early if you go there for lunch.
 
 ### Ice Kacang
 
-A local dessert.
+A local dessert made of shaved ice that's perfect for sunny days. Most hawker centers have a stall that sell one. You can check out Old Airport Road Hakwer Center and Funan Food Court. 
 
 ![Ais Bor](/images/ais_bor.jpg)
-
-[Comment: Unfortunately Singapore just doesn't make good variations of this
-dessert. You need to visit Malaysia for the real thing.]
 
 ### Tsui Kway / Chwee Kueh
 
 This is an odd one, again from hawker centres. Rice cakes sprinkled with salted radish.
-
-[Comment: I *think* it's vegetarian.]
 
 ### Laksa
 
@@ -293,8 +242,7 @@ Rojak is a great local dish for vegetarians. Another staple of any food centre.
 Not a traditional Singaporean dish but always a good option.
 
 The most popular Hong Kong style dim sum (aka. yum cha) restaurant at the
-moment is [Tim Ho Wan](http://www.timhowan.com/locate-us/) - their pork buns
-are a "must try".
+moment is [Tim Ho Wan](https://www.timhowan.com/our-stores/#location-singapore) - their pork buns are a "must try".
 
 ![Pork Buns](/images/tim_ho_wan_pork_buns.jpg)
 
@@ -304,43 +252,32 @@ Kway Chap is a Teochew dish of flat, broad rice sheets in a soup made with dark 
 
 [Pictures of Kway Chap via Google](https://www.google.com.sg/search?q=kway+chap+singapore&es_sm=91&source=lnms&tbm=isch&sa=X&ei=rRiqU7e_CsmHuAS3yYGQBA&ved=0CAgQ_AUoAQ&biw=1916&bih=986)
 
-#### Where can I find it?
-
-##### Lao San Kway Chap
-
-Address: 232 Ang Mo Kio Ave 3, #01-1222, Singapore 560232 [Map](https://goo.gl/maps/vq4gNeDrUeE2)
-
 ### Chilli Crab
 
 Singapore is very famous for its chilli crab.
 
-If you can get there
-[Mellben](https://www.facebook.com/MellbenSeafoodToaPayoh) is quite good. Try
-their Crab Bee Hoon.]
+[Jumbo Seafood](https://www.jumboseafood.com.sg/en/home) is classic in a nice setting, but can be expensive. Ask for prices before you order.
 
-[Comment: Don't try this at touristy restaurants - it's just not worth it.]
+[Mellben](https://www.mellbensignature.sg/mellben-seafood/) is a more local option, albeit a bit out of the way. Try their Crab Bee Hoon if you go there. 
 
 ### Wanton Noodles
 
-Again, not a truly local dish, but a very nice Chinese dish of noodles and
-pork.
-
 Worth visiting [Foong Kee Coffee Shop](http://www.hungrygowhere.com/singapore/foong_kee/)
-if you're in Chinatown.
+in Chinatown.
 
 ![Wanton Min](/images/wanton_min.jpg)
 
 ### Putu Piring / Kueh Tutu
 
-Putu Piring is a Traditional Singaporean treat. Steamed rice cake filled with gula melaka (melted palm sugar). Served with grated coconut, squares of pandan leaf, has subtle, sweet vanilla fragrance.
+Putu Piring is steamed rice cake filled with gula melaka (melted palm sugar). Served with grated coconut, squares of pandan leaf, has subtle, sweet vanilla fragrance.
 
-## Indie Bookstore
+## Indie Bookstores
 
 - [BooksActually](https://www.booksactuallyshop.com/pages/about)
 
 ## Coffee Culture
 
-While there are many western-style cafes and popular chains like Starbucks throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centers. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse).
+While there are many western-style cafes and popular chains throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centers. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse).
 
 You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They also have a regular meetup, which you can join for kopi adventures and meet interesting people.
 
@@ -352,55 +289,42 @@ You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They a
 * [Cat Cafe Neko no Niwa](http://www.catcafe.com.sg)
 * [The Cat Cafe Singapore](http://thecatcafe.sg)
 
-## Drinking Locations
+## Drinks
 
-- Club Street
-- Clarke Quay
+### Cocktails
 
-Of course there will be many other places that people drink in Singapore, just
-ask someone at RDRC for recommendations.
+Singapore is an excellent city for cocktails, featuring some of the [Top Cocktail Bars in Asia](https://www.theworlds50best.com/bars/asia/list/1-50). A cocktail costs about S$25 on average.
 
-### Craft Beer
+### Craft Beers
 
-- [Pink Blossoms Brewing](https://www.google.com/search?q=pink+blossoms&rlz=1C5CHFA_enSG848SG848&oq=pink+blossoms&aqs=chrome..69i57j0l5.4637j0j7&sourceid=chrome&ie=UTF-8#) (local)
-- [Druggists](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=xxmTXcOQE-zA3LUP9Y-DwAs&q=druggists&oq=druggists&gs_l=psy-ab.3..0l9j0i10.8250.9507..9650...0.1..0.62.468.9......0....1..gws-wiz.......0i71j0i273j0i67j0i131j0i131i67.qAK28AK3Ep8&ved=0ahUKEwiDkOag3frkAhVsILcAHfXHALgQ4dUDCAs&uact=5#)
-- [American Taproom](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=0hmTXdLmAtS_3LUPhJSQkA4&q=american+taproom&oq=american+&gs_l=psy-ab.3.0.0i273l2j0i131l4j0l4.7584.8467..9292...0.1..0.61.397.9......0....1..gws-wiz.......0i71j0i67.dwGh1u2j_6I#)
-- [Temple Cellars](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=3BmTXeT9I9SLmgeA7qawCg&q=temple+cellars&oq=temple+cellars&gs_l=psy-ab.3..0l2j0i22i30l2j38.6801.9417..9607...2.1..0.75.767.16......0....1..gws-wiz.......0i71j0i273j0i67j0i131j0i3j0i10j0i22i10i30.rUK7sNm0BjI&ved=0ahUKEwjk2_iq3frkAhXUheYKHQC3CaYQ4dUDCAs&uact=5#)
-- [Smith Street Taps](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=5xmTXfKVD4DWz7sP0Jq0kAE&q=smith+street+taps&oq=smith+st&gs_l=psy-ab.3.0.0i273j0l9.7841.8672..9736...0.1..0.69.383.8......0....1..gws-wiz.......0i71j0i67j0i131.EmXc33RDHX0#)
-- [3rd Culture Brewing](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=3rd+culture&npsic=0&rflfq=1&rlha=0&rllag=1294511,103865577,2789&tbm=lcl&ved=2ahUKEwjLzpm63frkAhVg6XMBHZwxDE4QtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rldoc=1)
-- [Little Creatures](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=_BmTXcvgI-DSz7sPnOOw8AQ&q=little+creatures&oq=little+creatures&gs_l=psy-ab.3..0l10.11996.13920..14061...0.2..1.195.911.15j1......0....1..gws-wiz.......0i71j0i273j0i131j0i67.F1JI4YE0rnE&ved=0ahUKEwjLzpm63frkAhVg6XMBHZwxDE4Q4dUDCAs&uact=5#) (Australian)
-- [Heart of Darkness](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=LRqTXfuZOfGH8QPO-b2ADA&q=heart+of+darkness+craft+brewery+singapore&oq=heart+of+darkness+craft+brewery+sin&gs_l=psy-ab.3.0.0.3411.3712..4433...0.2..0.51.191.4......0....1..gws-wiz.......0i71j0i22i30.KqNGJkvSjq4#) (local + imports)
-- [Freehouse](https://www.google.com/search?q=freehouse&rlz=1C5CHFA_enSG848SG848&oq=freehouse&aqs=chrome..69i57j0l5.1200j0j9&sourceid=chrome&ie=UTF-8#)
-- [Burger Joint](https://www.google.com/search?q=burger+joint&rlz=1C5CHFA_enSG848SG848&oq=burger+join&aqs=chrome.0.0j69i57j0l4.1964j0j9&sourceid=chrome&ie=UTF-8#)
-- [Good Luck Beer House](https://www.google.com/search?q=good+luck+beerhouse&rlz=1C5CHFA_enSG848SG848&oq=good+luck+beerhouse&aqs=chrome..69i57j0l5.4627j0j9&sourceid=chrome&ie=UTF-8#) (local + imports)
-- [Little Island Brewing](https://www.google.com/search?q=little+island+brewing+co&rlz=1C5CHFA_enSG848SG848&oq=little+island+brew&aqs=chrome.0.0j69i57j0l4.2429j0j9&sourceid=chrome&ie=UTF-8#) (local)
-- [TAP](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=TAP+craft+beer&npsic=0&rflfq=1&rlha=0&rllag=1286976,103847393,1259&tbm=lcl&ved=2ahUKEwiVltDy3frkAhWmILcAHWD7D9MQtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:4&rldoc=1)
-- [The Great Beer Experiment](https://www.google.com/search?q=the+great+beer+experiment&rlz=1C5CHFA_enSG848SG848&oq=the+great+beer+e&aqs=chrome.1.69i57j0l5.2469j0j9&sourceid=chrome&ie=UTF-8#)
-- [Nickeldime](https://www.google.com/search?q=nickeldime&rlz=1C5CHFA_enSG848SG848&oq=nickeldime&aqs=chrome..69i57j0l5.1327j0j9&sourceid=chrome&ie=UTF-8#)
-- [JiBiru](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&ei=jRqTXbHQBLzhz7sPkJq0SA&q=jibiru&oq=jibiru&gs_l=psy-ab.3..0l7j0i10l3.6908.7690..7905...0.1..0.57.284.6......0....1..gws-wiz.......0i71j0i273j0i131.iZTv_q5wsiY&ved=0ahUKEwjxyoz_3frkAhW88HMBHRANDQkQ4dUDCAs&uact=5#) (Japanese)
-- [RedDot Brewhouse](https://www.google.com/search?rlz=1C5CHFA_enSG848SG848&q=reddot&npsic=0&rflfq=1&rlha=0&rllag=1293160,103833910,2877&tbm=lcl&ved=2ahUKEwj2uqqJ3vrkAhUc7HMBHQIFCYUQtgN6BAgKEAQ&tbs=lrf:!2m4!1e17!4m2!17m1!1e2!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rldoc=1) (local)
-- [Brewerks](https://www.google.com/search?q=brewerks&rlz=1C5CHFA_enSG848SG848&oq=brewerks&aqs=chrome..69i57j0l5.2021j0j9&sourceid=chrome&ie=UTF-8#) (local)
-- [The Pump Room](http://www.pumproomasia.com/) (local)
+- [Pink Blossoms Brewing](https://pinkblossomsbrewing.com)
+- [Druggists](https://www.druggists.sg)
+- [American Taproom](https://www.americantaproom.com.sg)
+- [Smith Street Taps](https://www.instagram.com/smithstreettaps/?hl=en)
+- [Heart of Darkness](https://heartofdarknessbrewery.com/singapore-reservations/)
+- [Good Luck Beer House](https://www.goodluckgoodluck.sg)
+- [Little Island Brewing](https://libc.co)
+- [TAP](https://www.tapthat.com.sg)
+- [RedDot Brewhouse](https://reddotbrewhouse.com.sg)
+- [Brewerks](https://brewerkz.com)
 
 ### Singapore Sling
 
-This is an alcoholic drink. If you're arriving into Singapore via Singapore Airlines, feel free to request for the Singapore Sling as they serve the Singapore Sling on board -- for free! Most convenience stores around Singapore (7 Eleven/Cheers) have pre-mixed bottles ready for consumption and you may consider purchasing a bottle or two to enjoy!
+A historical, [gin-based cocktail](https://en.wikipedia.org/wiki/Singapore_sling) from Singapore. If you're arriving via Singapore Airlines, feel free to request for the Singapore Sling on board. Most convenience stores around Singapore (7 Eleven/Cheers) have pre-mixed bottles ready for consumption and you may consider purchasing a bottle or two to enjoy!
 
-The quintessential place to drink it is at the 2 storey Long Bar in Raffles Hotel (accessible to the public), the birthplace of the cocktail. However, prices are considerably steeper there.
+The quintessential place to drink it is at the 2 storey Long Bar in Raffles Hotel (accessible to the public), the birthplace of the cocktail. Expect to pay matching prices.
 
 ## Major Hawker Centres
 
-- [Lau Pa Sat](https://www.google.com/maps/place/Lau+Pa+Sat+Food+Court/@1.2804831,103.8505926,15z/data=!4m2!3m1!1s0x0:0xc443acfcf5de1716?sa=X&ved=2ahUKEwitvcPi1_rkAhXzheYKHVItA5MQ_BIwG3oECA4QCA)
-- [Maxwell Food Centre](https://plus.google.com/116782628772913980144/about?gl=sg&hl=en)
+- [Lau Pa Sat](https://maps.app.goo.gl/Xei1ecm9hXBo6hqp7)
+- [Maxwell Food Centre](https://maps.app.goo.gl/1SGvF33iam3SCwqK6)
+- [Chinatown Complex Market & Food Centre](https://maps.app.goo.gl/8vyS8oU2yTjNw7aU7)
 - ABC Market
 - Redhill
-- Chinatown Complex Market & Food Centre
 
 ## Shopping
 
-One of the two major passions (the other being eating) of Singaporeans. Ask any local for their recommendations on places to shop and this particular shopping district will come up. Enter Orchard Road – this 2.2km belt is one of Singapore's premier district for shopping. Located amidst cultural landmarks, lively street activities and dazzling architectural landscapes, you'll be sure to spend at least a full day there if you love shopping!
-
-Worried that you might get lost? Tourist Information Centres have been set up along the shopping belt to assist you in locating various landmarks and attractions within Singapore. You may also consider purchasing various attraction packages at discounted rates at these centres!
+One of the two major passions (the other being eating) of Singaporeans. Ask any local for their recommendations on places to shop and this particular shopping district will come up: Orchard Road. This 2.2km belt is one of Singapore's premier district for shopping. Located amidst cultural landmarks, lively street activities and dazzling architectural landscapes, you'll be sure to spend at least a full day there if you love shopping!
 
 ### Electronics
 
@@ -420,18 +344,16 @@ Worried that you might get lost? Tourist Information Centres have been set up al
 - Funan Square
 
   Slightly more up-market version of Sim Lim Square. Prices probably higher than
-  Sim Lim, but comes with an altogether more pleasant shopping experience.
+  Sim Lim, but comes with a more pleasant shopping experience.
   Challenger mega-store on top floor.
 
   Nearest MRT stations: City Hall (East West and North South Lines), Clarke Quay
   (North East Line).
 
-## Sight Seeing
+## Sightseeing
 
 - Bugis Street
 - National Museum
-  [Comment: It's a nice old building but not that exciting unless you're really into
-  museums.]
 - Marina Bay Sands
 - Singapore Zoo
 - Night Safari
@@ -454,32 +376,13 @@ Worried that you might get lost? Tourist Information Centres have been set up al
 - Pulau Ubin (located on a seperate island)
 - Bukit Timah Hill
 - Gardens By the Bay
-  [Comment: Enclosed and air conditioned gardens. Quite impressive, you have to go
-  there more than once.]
 - The Rain Vortex at the Jewel Changi Airport 
-
-## Currency
-
-It's advisable to bring [Singapore dollars
-(SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
-you can easily get cash out at ATMs after you arrive if necessary. While
-credit cards are widely accepted here, there are plenty of places which
-will only take cash. Certainly for public transport, cash is more heavily
-used. The best local food can be found in the older [hawker centres](#major-hawker-centres)
-and can't be bought with a credit card.
-
-Some retailers have a naughty habit of slapping the transaction fees as
-additional surcharges for credit card purchases, so, if you're shopping
-for say electronic goods, you might find that you get a small "discount"
-for paying by cash.
-
-VISA and MasterCard are commonly accepted. Many retailers still don't accept
-AMEX. Some retailers accept Discover, but best to assume most don't.
-
 
 ## Co-working Spaces
 
 If you plan to bring your work while visiting Singapore, WeBuild SG provides a [partial list of co-working spaces](https://github.com/webuildsg/lists#co-working-spaces).
+
+Both [Deskimo](https://www.deskimo.com) and [Switch](https://www.switch.site) apps offer access to some of the best co-working spaces, charged by the minute.
 
 ## Discussion
 
