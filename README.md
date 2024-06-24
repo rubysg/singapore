@@ -80,7 +80,7 @@ Most hotels have universal plugs that work with Type C (two pin) plugs, but you 
 It's a good idea to bring [Singapore dollars
 (SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
 you can easily get cash out at ATMs after you arrive if necessary. While
-credit cards are widely accepted here, cash is still king, especially at Hawker centers. 
+credit cards are widely accepted here, cash is still king, especially at [Hawker centres](https://en.wikipedia.org/wiki/Hawker_centre). 
 
 Some retailers have a habit of adding additional surcharges for credit card purchases, so, you might find that you get a small "discount" for paying with cash.
 
@@ -100,13 +100,13 @@ Do take note that Singapore imposes a 9% levy on nearly all forms of goods and s
 
 It's not expected to leave a tip in Singapore. Although feel free to leave a few coins at the end of your meal if you feel like it.
 
-Hawker centers are mostly self-service and don't have service charges. Restaurants typically add 10% service charge to your final bill.
+Hawker centres are mostly self-service and don't have service charges. Restaurants typically add 10% service charge to your final bill.
 
 ## Tissue Culture
 
-Singaporeans often leave tissues on tables in busy food courts and hawker centers before they order their food to "reserve" the table. You might be tempted to remove it, but don't. Just find another table and use your own tissue to reserve it.
+Singaporeans often leave tissues on tables in busy food courts and hawker centres before they order their food to "reserve" the table. You might be tempted to remove it, but don't. Just find another table and use your own tissue to reserve it.
 
-If you don't have a tissue, most hawker centers have an old lady or gentleman offering for a dollar or two, feel free to buy from them.
+If you don't have a tissue, most hawker centres have an old lady or gentleman offering for a dollar or two, feel free to buy from them.
 
 ## Communication
 
@@ -189,7 +189,7 @@ Check out his [Singapore's Ultimate Food Trail post](http://bit.ly/ieatUltimateF
 
 [Yakun](http://www.yakun.com.sg/) - these stores are everywhere.
 
-You can get this at the drink stall in almost every hawker center. Ask for "breakfast set".
+You can get this at the drink stall in almost every hawker centre. Ask for "breakfast set".
 
 ### Nasi Lemak
 
@@ -217,7 +217,7 @@ Tian Tian in the Maxwell Food Centre is very famous, although the queues can get
 
 ### Ice Kacang
 
-A local dessert made of shaved ice that's perfect for sunny days. Most hawker centers have a stall that sell one. You can check out Old Airport Road Hakwer Center and Funan Food Court. 
+A local dessert made of shaved ice that's perfect for sunny days. Most hawker centres have a stall that sell one. You can check out Old Airport Road Hakwer Centre and Funan Food Court. 
 
 ![Ais Bor](/images/ais_bor.jpg)
 
@@ -277,7 +277,7 @@ Putu Piring is steamed rice cake filled with gula melaka (melted palm sugar). Se
 
 ## Coffee Culture
 
-While there are many western-style cafes and popular chains throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centers. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse).
+While there are many western-style cafes and popular chains throughout the island, local coffee culture is something you must experience. Best places to try local coffee are neighbourhood confectionaries or hawker centres. In local lingo, coffee is known as Kopi (and tea is Teh for that matter). There's a comprehensive vocabulary developed on how to order coffee (it is fun to learn and great way to immerse).
 
 You can learn more about Kopi lingo from [KopiJS](http://www.kopijs.org). They also have a regular meetup, which you can join for kopi adventures and meet interesting people.
 
