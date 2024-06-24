@@ -65,7 +65,7 @@ You can also go into most convenience stores (eg. 7-11) and buy a pre-paid simca
 from either SingTel or StarHub (or possibly M1).
 
 - [SingTel plans](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist)
-- [StarHub plans](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards/travel-sim.html).
+- [StarHub plans](https://www.starhub.com/personal/mobile/mobile-phones-plans/prepaid-cards/travel-sim.html)
 - [Airalo plans](https://www.airalo.com/singapore-esim)
 
 ## Power Plugs
@@ -131,7 +131,7 @@ Avoid these while in Singapore:
 - Littering
 - Drugs
 - Chewing gum
-- Drining and eating in public transport. You can be fined for it. This is especially true for MRT stations and trains.
+- Eating and drinking in public transport. You can be fined for it. This is especially true for MRT stations and trains.
 - Carry [Durian](http://en.wikipedia.org/wiki/Durian) in public transport
 
 You *really* don't want to commit crimes here. Singapore
