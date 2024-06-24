@@ -106,7 +106,7 @@ Hawker centres are mostly self-service and don't have service charges. Restauran
 
 Singaporeans often leave tissues on tables in busy food courts and hawker centres before they order their food to "reserve" the table. You might be tempted to remove it, but don't. Just find another table and use your own tissue to reserve it.
 
-If you don't have a tissue, most hawker centres have an old lady or gentleman offering for a dollar or two, feel free to buy from them.
+If you don't have a tissue, most hawker centres sell one at the drink stall for S$0.30. Alternatively, there's usually an older lady or gentleman offering multiple for a dollar or two, feel free to buy from them.
 
 ## Communication
 
@@ -211,9 +211,11 @@ A spicy roll and a great option for vegetarians.
 
 ### Chicken Rice
 
-This is a very famous Singaporean dish.
+This is a very famous Singaporean dish made of –you guessed it– chicken and rice.
 
-Tian Tian in the Maxwell Food Centre is very famous, although the queues can get long, so arrive early if you go there for lunch.
+- Tian Tian in the Maxwell Food Centre is good but the queues can get long. So arrive early if you go there for lunch.
+- Boon Tong Kee has multiple locations throughout the city.
+- Chin Chin at Purvis street is a good option as well.
 
 ### Ice Kacang
 
