@@ -4,6 +4,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ## Table of Contents
 
+- [Arrival](#arrival)
 - [Meetups](#meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power Plugs](#power-plugs)
@@ -20,6 +21,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
    - [MRT and Buses](#mrt-and-buses)
    - [Transport Apps](#transport-apps)
 - [Food](#food)
+   - [Vegetarian & Vegan Options](#vegetarian--vegan-options)
    - [ieat Ultimate Food Trail](#ieat-ultimate-food-trail)
    - [Kaya Toast with Eggs](#kaya-toast-with-eggs)
    - [Nasi Lemak](#nasi-lemak)
@@ -49,6 +51,12 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Co-working Spaces](#co-working-spaces)
 - [Discussion](#discussion)
 - [License](#license)
+
+## Arrival
+
+Immigration at Changi now uses [facial and iris recognition](https://www.ica.gov.sg/enter-transit-depart/at-our-checkpoints/for-travellers/MMBS). First-time visitors enrol biometrics at a manual counter on arrival; after that you can use the automated lanes (departure and future trips). Takes [about 10 seconds](https://idtechwire.com/changi-airports-biometric-processing-brings-immigration-screening-down-to-10-seconds/) once enrolled. Remove sunglasses and caps before the gates, and skip coloured contact lenses.
+
+You won't get a passport stamp anymore — instead you'll receive an [e-Pass](https://www.thesimplifytravel.com/blog-posts/singapore-new-entry-procedure-automated-clearance-initiative-system) via the email on your [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/). Submit the Arrival Card within 3 days before you land.
 
 ## Meetups
 
@@ -110,6 +118,8 @@ If you don't have a tissue, most hawker centres sell one at the drink stall for 
 ## Communication
 
 English is widely spoken everywhere. You might hear [Singlish](https://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html) from time to time among Singaporeans. It's fun to learn, but you will sound silly if you try to imitate it.
+
+[SEA-LION](https://sea-lion.ai/) is an open-source LLM built by [AI Singapore](https://aisingapore.org/) for Southeast Asian languages. You can [try it in your browser](https://sea-lion.ai/try-sea-lion/) — ask something like *"How would a Singaporean say 'I am looking for vegetarian food' in a casual, conversational way with Singlish fillers?"* to get a feel for local phrasing.
 
 ## Shopping
 
@@ -177,6 +187,16 @@ Alternatively, you can get a prepaid [EZ-link card](https://www.ezlink.com.sg/ge
 ## Food
 
 Singapore has excellent food variety, from affortable hawker fare to Michelin starred restaurants. Singaporeans can be quite opiniated about their favourites, so feel free to ask locals for advice and they will be happy to help you.
+
+### Vegetarian & Vegan Options
+
+You'll find two kinds of meatless food here:
+
+- **Traditional vegetarian** — Dishes built as veg from the ground up. Most hawker centres have a dedicated vegetarian stall serving bee hoon, Thunder Tea Rice, etc. Little India has many fully vegetarian restaurants with dosa, thosai and curries. Look for "素" signs at hawker centres.
+
+- **Mock meat / plant-based** — Looks and tastes like meat, but is soy, mushroom or jackfruit-based. Hawker vegetarian stalls have been doing this for decades — you'll see "chicken rice" and "char siew" that are entirely plant-based. For restaurants, try [Whole Earth](https://www.wholeearth.com.sg/) (Peranakan-Thai) or [NomVnom](https://www.nomvnom.com/) (vegan burgers).
+
+Good spots: [Makan Vegan](https://www.facebook.com/MakanVegan/) (all-vegan hawker centre in Geylang) and [Fortune Centre](https://maps.app.goo.gl/KQ9WTdm1DxJ8g55e8) on Middle Rd (several veg/vegan restaurants). If you're strictly vegan, double-check about egg and dairy at vegetarian stalls.
 
 ### ieat Ultimate Food Trail
 
