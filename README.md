@@ -69,8 +69,10 @@ from either SingTel or StarHub (or possibly M1).
 
 ## Power Plugs
 
-The standard in Singapore is 230V Type G (three pin) sockets.
-![Type G](https://www.iec.ch/themes/custom/iec/images/world-plugs/types/G/G_dia_sock_l.png)
+The standard socket in Singapore is the three pin Type G (Singapore standard [SS 145](https://www.singaporestandardseshop.sg/Product/SSPdtDetail/35d38880-a825-46f8-8b0f-5d2e234b4949) based on the British [BS 1363](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#BS_1363_(Type_G))).
+The power supplied is 230V at 50Hz.
+
+[![Type G](./images/type_g_socket.jpg)](https://en.wikipedia.org/wiki/File:Uk_13a_double_socket.jpg)
 
 Most hotels have universal plugs that work with Type C (two pin) plugs, but you should consider bringing a travel adapter just in case.
 
@@ -79,13 +81,13 @@ Most hotels have universal plugs that work with Type C (two pin) plugs, but you 
 It's a good idea to bring [Singapore dollars
 (SGD)](https://en.wikipedia.org/wiki/Singapore_dollar) when visiting. However
 you can easily get cash out at ATMs after you arrive if necessary. While
-credit cards are widely accepted here, cash is still king, especially at [Hawker centres](https://en.wikipedia.org/wiki/Hawker_centre). 
+credit cards are widely accepted here, cash is still king, especially at [Hawker centres](https://en.wikipedia.org/wiki/Hawker_centre).
 
 Some retailers have a habit of adding additional surcharges for credit card purchases, so, you might find that you get a small "discount" for paying with cash.
 
 ## Free WiFi
 
-Changi Airport offers [3 hour free wifi](https://www.changiairport.com/en/airport-guide/facilities-and-services/internet-connection.html). 
+Changi Airport offers [3 hour free wifi](https://www.changiairport.com/en/airport-guide/facilities-and-services/internet-connection.html).
 
 [Wireless@SG](https://www.imda.gov.sg/how-we-can-help/wireless-at-sg/wireless-at-sg-for-consumers) is an open network available at almost every shopping mall, library and public space.
 
@@ -115,7 +117,7 @@ English is widely spoken everywhere. You might hear [Singlish](https://www.aussi
 
 Here are a few food suggestions to bring back home:
 
-- [Bak Kwa](https://en.wikipedia.org/wiki/Bakkwa), a Chinese salty-sweet dried meat product similar to jerky. 
+- [Bak Kwa](https://en.wikipedia.org/wiki/Bakkwa), a Chinese salty-sweet dried meat product similar to jerky.
   [Bee Cheng Hiang](http://www.beechenghiang.com.sg/our-story/our-bakkwa.html) or [Lim Chee Guan](http://www.limcheeguan.com.sg/) are both good options.
 - [Pandan Cake](https://en.wikipedia.org/wiki/Pandan_cake) or [Kueh Lapis](https://en.wikipedia.org/wiki/Kue_lapis) from [Bengawan Solo](https://bengawansolo.sg)
 - Pineapple cakes from [Sunny Hills](https://www.sunnyhills.com.sg/collections/all-pineapple-cakes-product)
@@ -218,7 +220,7 @@ This is a very famous Singaporean dish made of –you guessed it– chicken and 
 
 ### Ice Kacang
 
-A local dessert made of shaved ice that's perfect for sunny days. Most hawker centres have a stall that sell one. You can check out Old Airport Road Hakwer Centre and Funan Food Court. 
+A local dessert made of shaved ice that's perfect for sunny days. Most hawker centres have a stall that sell one. You can check out Old Airport Road Hakwer Centre and Funan Food Court.
 
 ![Ais Bor](/images/ais_bor.jpg)
 
@@ -259,7 +261,7 @@ Singapore is very famous for its chilli crab.
 
 [Jumbo Seafood](https://www.jumboseafood.com.sg/en/home) is classic in a nice setting, but can be expensive. Ask for prices before you order.
 
-[Mellben](https://www.mellbensignature.sg/mellben-seafood/) is a more local option, albeit a bit out of the way. Try their Crab Bee Hoon if you go there. 
+[Mellben](https://www.mellbensignature.sg/mellben-seafood/) is a more local option, albeit a bit out of the way. Try their Crab Bee Hoon if you go there.
 
 ### Wanton Noodles
 
@@ -372,7 +374,7 @@ One of the two major passions (the other being eating) of Singaporeans. Ask any 
 - Pulau Ubin (located on a seperate island)
 - Bukit Timah Hill
 - Gardens By the Bay
-- The Rain Vortex at the Jewel Changi Airport 
+- The Rain Vortex at the Jewel Changi Airport
 
 ## Co-working Spaces
 
